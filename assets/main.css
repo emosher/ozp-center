@@ -8300,7 +8300,7 @@ html, body {
     height: auto; }
   #discovery .facet-group {
     padding-bottom: 10px;
-    margin: 0;
+    margin: 0 5px 0 5px;
     border-bottom: 2px solid #dbdcdd; }
     #discovery .facet-group + .facet-group {
       margin-top: 10px; }
@@ -8310,21 +8310,17 @@ html, body {
       border-bottom: none; }
   #discovery li {
     position: relative;
-    line-height: 2.5em; }
+    line-height: 2.5em;
+    border-left: transparent 4px solid; }
     #discovery li.facet-group-item {
-      cursor: pointer; }
+      cursor: pointer;
+      padding-left: 15px;
+      margin-left: -5px; }
+      #discovery li.facet-group-item:hover, #discovery li.facet-group-item:focus {
+        border-left-color: #087399; }
     #discovery li.active {
-      color: #087399; }
-      #discovery li.active:after {
-        content: '';
-        width: 3px;
-        height: 100%;
-        display: inline-block;
-        position: absolute;
-        left: -30px;
-        z-index: 15;
-        background: #087399;
-        top: 0; }
+      color: #087399;
+      border-left-color: #087399; }
   #discovery > section {
     float: right;
     width: 965px;
