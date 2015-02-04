@@ -7962,7 +7962,8 @@ html, body {
   font-family: 'Ubuntu';
   font-weight: 300;
   height: 100%;
-  background: #4c5457; }
+  background: url('../images/bg_fractal_gray.png') #4c5457 no-repeat fixed;
+  background-size: cover; }
 
 .navbar-right {
   margin: 0px; }
@@ -7983,7 +7984,7 @@ html, body {
   width: 100%;
   left: 0; }
   #header > .row, #sub-header > .row {
-    background: #fff;
+    background: #ffffff;
     margin: 0 auto;
     width: 1260px; }
 
