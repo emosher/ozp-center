@@ -8162,19 +8162,27 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   border: 1px solid #076281;
   box-shadow: inset 0 0 0 25px #08789e; }
 
-.UserNotification > a {
-  padding: 0 10px !important; }
-  .UserNotification > a .close {
-    color: #dbdcdd; }
-    .UserNotification > a .close:hover, .UserNotification > a .close:focus {
-      color: #ffffff; }
-  .UserNotification > a .created-by {
-    margin: 0;
-    font-weight: 500; }
-  .UserNotification > a .message {
-    margin-top: 5px; }
-  .UserNotification > a .Time {
-    margin-left: 5px; }
+.UserNotifications {
+  padding: 0;
+  max-height: 251px;
+  overflow-y: auto; }
+
+.UserNotification {
+  padding: 7px; }
+  .UserNotification> {
+    padding: 0 10px !important; }
+    .UserNotification > .close {
+      color: #dbdcdd; }
+      .UserNotification > .close:hover, .UserNotification > .close:focus {
+        color: #ffffff; }
+    .UserNotification > .created-by {
+      margin: 0;
+      font-weight: 500; }
+    .UserNotification > .message {
+      margin-top: 5px;
+      margin-bottom: 0; }
+    .UserNotification > .Time {
+      margin-left: 5px; }
 
 .profile-window .modal-body {
   overflow-y: auto;
@@ -8223,6 +8231,22 @@ input[type="checkbox"].ios.brand-info.checked + .track {
     margin-right: 15px; }
 .settings-window small, .settings-window dd {
   font-size: 12px; }
+
+.load-error {
+  margin-top: 20px;
+  font-weight: normal; }
+  .load-error > p {
+    font-size: 1.2em; }
+  .load-error .error-details {
+    margin-left: 20px; }
+  .load-error p > label {
+    margin-bottom: 0; }
+    .load-error p > label::after {
+      content: ':'; }
+  .load-error h4 {
+    font-weight: bold; }
+  .load-error h5 {
+    font-weight: bolder; }
 
 html, body {
   font-family: 'Ubuntu';
@@ -8285,6 +8309,9 @@ html, body {
 .w2ui-grid .w2ui-grid-body .w2ui-grid-records table tr.w2ui-selected, .w2ui-grid .w2ui-grid-body .w2ui-grid-records table tr td.w2ui-selected {
   background-color: #c6e9f5 !important; }
 
+.w2ui-toolbar table.w2ui-button .w2ui-tb-image > .icon-square-plus {
+  margin-top: -3px; }
+
 .load-mask-container {
   position: fixed;
   width: 100%;
@@ -8327,7 +8354,8 @@ html, body {
     height: 100%;
     background: rgba(0, 0, 0, 0.1);
     top: 0;
-    color: #fff; }
+    color: #fff;
+    z-index: 1; }
     .carousel-wrapper .prev > i, .carousel-wrapper .next > i {
       font-size: 2em; }
   .carousel-wrapper .next {
@@ -8362,12 +8390,21 @@ html, body {
         width: 100%;
         height: 54px;
         border: 0; }
-      #header .navbar-form > .form-group > i {
+      #header .navbar-form > .form-group > .fa-search {
         position: absolute;
         z-index: 1;
         top: 17px;
         left: 30px;
         color: #4c5457; }
+      #header .navbar-form > .form-group > .fa-times {
+        position: absolute;
+        z-index: 1;
+        top: 17px;
+        right: 30px;
+        color: #4c5457; }
+        #header .navbar-form > .form-group > .fa-times:hover {
+          cursor: pointer;
+          color: #191f25; }
   #header .spacer {
     height: 1px;
     background: #dbdcdd;
@@ -8834,6 +8871,14 @@ html, body {
   top: 0;
   right: 0; }
 
+.create-edit-button {
+  display: none; }
+
+button.tool:hover .create-edit-button {
+  display: inline-block; }
+  button.tool:hover .create-edit-button + i {
+    display: none; }
+
 #globalNav {
   top: 20px !important; }
 
@@ -9154,14 +9199,13 @@ div.modal-header > button.close {
   padding-top: 20px;
   padding-bottom: 20px; }
 
-body > div.classBanner:first-of-type {
+body > div.classBanner {
   position: fixed;
-  top: 0px;
-  z-index: 100; }
-
-body > div.classBanner:last-of-type {
-  position: fixed;
-  bottom: 0px; }
+  z-index: 1000000; }
+  body > div.classBanner:first-of-type {
+    top: 0px; }
+  body > div.classBanner:last-of-type {
+    bottom: 0px; }
 
 .corner-button, .AdminOwnerListingTile__actionMenuButton, .image-remove {
   display: block;
