@@ -4143,7 +4143,10 @@ tbody.collapse.in {
       border-bottom-color: transparent;
       cursor: default;
       border-top: 4px solid #087399;
-      padding-top: 7px; }
+      padding-top: 7px;
+      z-index: 100;
+      padding-bottom: 14px;
+      margin-bottom: -10px; }
 
 .nav-pills > li {
   float: left; }
@@ -5584,6 +5587,8 @@ button.close {
     margin-left: -1px; }
   .modal-footer .btn-block + .btn-block {
     margin-left: 0; }
+  .modal-footer .btn-link {
+    color: #0e5772 !important; }
 
 .modal-scrollbar-measure {
   position: absolute;
@@ -8631,6 +8636,9 @@ html, body {
       border-left-color: #087399; }
   #discovery .sidebar li {
     border-left: transparent 4px solid; }
+    #discovery .sidebar li.active {
+      color: #087399;
+      border-left-color: #087399; }
   #discovery > section {
     float: right;
     width: 965px;
