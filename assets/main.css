@@ -8167,27 +8167,19 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   border: 1px solid #076281;
   box-shadow: inset 0 0 0 25px #08789e; }
 
-.UserNotifications {
-  padding: 0;
-  max-height: 251px;
-  overflow-y: auto; }
-
-.UserNotification {
-  padding: 7px; }
-  .UserNotification> {
-    padding: 0 10px !important; }
-    .UserNotification > .close {
-      color: #dbdcdd; }
-      .UserNotification > .close:hover, .UserNotification > .close:focus {
-        color: #ffffff; }
-    .UserNotification > .created-by {
-      margin: 0;
-      font-weight: 500; }
-    .UserNotification > .message {
-      margin-top: 5px;
-      margin-bottom: 0; }
-    .UserNotification > .Time {
-      margin-left: 5px; }
+.UserNotification > a {
+  padding: 0 10px !important; }
+  .UserNotification > a .close {
+    color: #dbdcdd; }
+    .UserNotification > a .close:hover, .UserNotification > a .close:focus {
+      color: #ffffff; }
+  .UserNotification > a .created-by {
+    margin: 0;
+    font-weight: 500; }
+  .UserNotification > a .message {
+    margin-top: 5px; }
+  .UserNotification > a .Time {
+    margin-left: 5px; }
 
 .profile-window .modal-body {
   overflow-y: auto;
