@@ -7520,8 +7520,8 @@ button.tool:hover .create-edit-button {
       height: 20px;
       line-height: 15px;
       padding: 3px; }
-    .Listings__SidebarFilter label i {
-      margin-right: 5px; }
+  .Listings__SidebarFilter i {
+    margin-right: 5px; }
   .Listings__SidebarFilter input:checked + label {
     border-left-color: #009dd3; }
   .Listings__SidebarFilter .label-needs-action > span {
