@@ -5704,7 +5704,7 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   .load-error h5 {
     font-weight: bolder; }
 
-.svg-common, .icon-arrow-right, .icon-arrow-right-grayLightest, .icon-arrow-right-white, .icon-ban-12, .icon-ban-12-blue, .icon-ban-12-blueDark, .icon-ban-14, .icon-ban-14-blue, .icon-ban-14-blueDark, .icon-bar-graph-2, .icon-bar-graph-2-grayLightest, .icon-bar-graph-2-white, a:hover > .icon-bar-graph-2-grayLightest, .icon-bell, .icon-bell-filled, .icon-bell-filled-blue, .icon-bell-grayLightest, .icon-bell-white, a:hover > .icon-bell-grayLightest, .icon-caret-down-14, .icon-caret-down-14-blue, .icon-caret-down-14-blueDark, .icon-caret-down-14-grayDark, .AdminOwnerListingTile__actionMenuButton, .icon-caret-down-14-grayLightest, .icon-caret-down-14-white, .icon-caret-down-18, .icon-caret-down-18-blue, .icon-caret-down-18-blueDark, .icon-caret-down-18-grayDark, .icon-caret-down-18-grayLightest, .icon-caret-down-18-white, .icon-caret-left, .icon-caret-left-white, .icon-caret-right, .icon-caret-right-blueDark, .icon-caret-right-grayDarkest, .icon-caret-right-white, .icon-caret-up, .icon-caret-up-grayLightest, .icon-caret-up-white, .icon-check, .icon-check-white, .icon-circle-check, .icon-circle-check-green, .icon-cloud, .icon-cloud-grayLightest, .icon-cloud-upload, .icon-cloud-upload-grayDark, .icon-cloud-upload-white, .icon-cloud-white, a:hover > .icon-cloud-grayLightest, .icon-cog, .icon-cog-grayLightest, .icon-cog-white, a:hover > .icon-cog-grayLightest, .icon-cross-10, .icon-cross-10-grayDark, .icon-cross-10-grayDarker, .icon-cross-10-grayLightest, .icon-cross-10-white, .icon-cross-14, .icon-cross-14-grayDark, .icon-cross-14-grayDarker, .icon-cross-14-grayLightest, .icon-cross-14-white, .icon-cross-16, .icon-cross-16-grayDark, .icon-cross-16-grayDarker, .icon-cross-16-grayLightest, .icon-cross-16-white, .icon-cross-18, .icon-cross-18-grayDark, .icon-cross-18-grayDarker, .icon-cross-18-grayLightest, .icon-cross-18-white, .icon-exclamation-12, .icon-exclamation-12-grayDark, .icon-exclamation-12-redOrangeDark, .icon-exclamation-14, .icon-exclamation-14-grayDark, .icon-exclamation-14-redOrangeDark, .icon-eye, .icon-eye-grayDark, .icon-eye-white, .icon-fast-forward, .icon-fast-forward-grayLightest, .icon-fast-forward-white, .icon-grid, .icon-grid-grayLightest, .icon-grid-white, .icon-head, .icon-head-grayLightest, .icon-head-white, a:hover > .icon-head-grayLightest, .icon-home, .icon-home-blue, .icon-home-grayLightest, .icon-home-white, .icon-layers, .icon-layers-grayDark, .icon-layers-grayLightest, .icon-layers-white, a:hover > .icon-layers-grayLightest, .icon-layout, .icon-layout-blue, .icon-layout-grayLightest, .icon-layout-white, a:hover > .icon-layout-grayLightest, .icon-loader-12, .icon-loader-12-blueDark, .icon-loader-12-grayDark, .icon-loader-14, .icon-loader-14-blueDark, .icon-loader-14-grayDark, .icon-lock, .icon-lock-grayDark, .icon-lock-grayDarkest, .icon-maximize, .icon-maximize-grayLightest, .icon-maximize-white, .icon-menu, .icon-menu-blue, .icon-menu-grayLightest, .icon-menu-white, a:hover > .icon-menu-grayLightest, .icon-minimize, .icon-minimize-grayLightest, .icon-minimize-white, .icon-minus-10, .icon-minus-10-blueDark, .icon-minus-10-grayLightest, .icon-minus-10-white, .icon-minus-14, .icon-minus-14-grayLightest, .icon-minus-14-white, .icon-open, .icon-open-grayDark, .icon-open-white, .icon-paper-12, .icon-paper-12-grayDark, .icon-paper-14, .icon-paper-14-grayDark, .icon-pencil, .icon-pencil-grayDark, .icon-pencil-grayLightest, .icon-pencil-white, .icon-plus-10, .icon-plus-10-blueDark, .icon-plus-10-grayLightest, .icon-plus-10-white, .icon-plus-14, .icon-plus-14-grayLightest, .icon-plus-14-white, .icon-plus-18, .icon-plus-18-grayLightest, .icon-plus-18-white, .icon-question, .icon-question-grayLightest, .icon-question-white, a:hover > .icon-question-grayLightest, .icon-reload-12, .icon-reload-12-blueDark, .icon-reload-12-grayDark, .icon-reload-14, .icon-reload-14-blueDark, .icon-reload-14-grayDark, .icon-rewind, .icon-rewind-grayLightest, .icon-rewind-white, .icon-ribbon, .icon-ribbon-filled, .icon-ribbon-filled-white, .icon-ribbon-filled-yellow, .icon-ribbon-grayDark, .icon-ribbon-grayLightest, .icon-ribbon-white, a:hover > .icon-ribbon-grayLightest, .icon-save, .icon-save-grayDark, .icon-save-white, .icon-search, .icon-search-grayDark, .icon-search-white, .icon-shopping, .icon-shopping-blue, .icon-shopping-grayLightest, .icon-shopping-settings, .icon-shopping-settings-grayLightest, .icon-shopping-settings-white, a:hover > .icon-shopping-settings-grayLightest, .icon-shopping-white, a:hover > .icon-shopping-grayLightest, .icon-square-plus, .icon-square-plus-grayDark, .icon-square-plus-grayLightest, .icon-square-plus-white, a:hover > .icon-square-plus-grayLightest, .icon-stack, .icon-stack-grayLightest, .icon-stack-white, .icon-star, .icon-star-filled, .icon-star-filled-grayLighter, .icon-star-filled-yellow, .icon-star-grayLighter, .icon-star-half-filled, .icon-star-half-filled-grayLighter, .icon-star-half-filled-yellow, .icon-star-halved, .icon-star-halved-grayLighter, .icon-star-halved-yellow, .icon-star-yellow, .icon-thumbs-up-12, .icon-thumbs-up-12-grayDark, .icon-thumbs-up-12-greenDark, .icon-thumbs-up-14, .icon-thumbs-up-14-grayDark, .icon-thumbs-up-14-greenDark, .icon-trash, .icon-trash-blue, .icon-trash-grayDark, .icon-trash-white, .icon-wrench, .icon-wrench-grayLightest, .icon-wrench-white {
+.svg-common, .icon-arrow-right, .icon-arrow-right-grayLightest, .icon-arrow-right-white, .icon-ban-12, .icon-ban-12-blue, .icon-ban-12-blueDark, .icon-ban-14, .icon-ban-14-blue, .icon-ban-14-blueDark, .icon-bar-graph-2, .icon-bar-graph-2-grayLightest, .icon-bar-graph-2-white, a:hover > .icon-bar-graph-2-grayLightest, .icon-bell, .icon-bell-filled, .icon-bell-filled-blue, .icon-bell-grayLightest, .icon-bell-white, a:hover > .icon-bell-grayLightest, .icon-caret-down-14, .icon-caret-down-14-blue, .icon-caret-down-14-blueDark, .icon-caret-down-14-grayDark, .AdminOwnerListingTile__actionMenuButton, .icon-caret-down-14-grayLightest, .icon-caret-down-14-white, .icon-caret-down-18, .icon-caret-down-18-blue, .icon-caret-down-18-blueDark, .icon-caret-down-18-grayDark, .icon-caret-down-18-grayLightest, .icon-caret-down-18-white, .icon-caret-left, .icon-caret-left-white, .icon-caret-right, .icon-caret-right-blueDark, .icon-caret-right-grayDarkest, .icon-caret-right-white, .icon-caret-up, .icon-caret-up-grayLightest, .icon-caret-up-white, .icon-check, .icon-check-white, .icon-circle-check, .icon-circle-check-green, .icon-cloud, .icon-cloud-grayLightest, .icon-cloud-upload, .icon-cloud-upload-grayDark, .icon-cloud-upload-white, .icon-cloud-white, a:hover > .icon-cloud-grayLightest, .icon-cog, .icon-cog-grayLightest, .icon-cog-white, a:hover > .icon-cog-grayLightest, .icon-cross-10, .icon-cross-10-grayDark, .icon-cross-10-grayDarker, .icon-cross-10-grayLightest, .icon-cross-10-white, .icon-cross-14, .icon-cross-14-grayDark, .icon-cross-14-grayDarker, .icon-cross-14-grayLightest, .icon-cross-14-white, .icon-cross-16, .icon-cross-16-grayDark, .icon-cross-16-grayDarker, .icon-cross-16-grayLightest, .icon-cross-16-white, .icon-cross-18, .icon-cross-18-grayDark, .icon-cross-18-grayDarker, .icon-cross-18-grayLightest, .icon-cross-18-white, .icon-exclamation-12, .icon-exclamation-12-grayDark, .icon-exclamation-12-redOrangeDark, .icon-exclamation-14, .icon-exclamation-14-grayDark, .icon-exclamation-14-redOrangeDark, .AdminOwnerListingTile.needs-action .approvalStatus, .icon-eye, .icon-eye-grayDark, .icon-eye-white, .icon-fast-forward, .icon-fast-forward-grayLightest, .icon-fast-forward-white, .icon-grid, .icon-grid-grayLightest, .icon-grid-white, .icon-head, .icon-head-grayLightest, .icon-head-white, a:hover > .icon-head-grayLightest, .icon-home, .icon-home-blue, .icon-home-grayLightest, .icon-home-white, .icon-layers, .icon-layers-grayDark, .icon-layers-grayLightest, .icon-layers-white, a:hover > .icon-layers-grayLightest, .icon-layout, .icon-layout-blue, .icon-layout-grayLightest, .icon-layout-white, a:hover > .icon-layout-grayLightest, .icon-loader-12, .icon-loader-12-blueDark, .icon-loader-12-grayDark, .icon-loader-14, .icon-loader-14-blueDark, .AdminOwnerListingTile.pending .approvalStatus, .icon-loader-14-grayDark, .icon-lock, .icon-lock-grayDark, .icon-lock-grayDarkest, .icon-maximize, .icon-maximize-grayLightest, .icon-maximize-white, .icon-menu, .icon-menu-blue, .icon-menu-grayLightest, .icon-menu-white, a:hover > .icon-menu-grayLightest, .icon-minimize, .icon-minimize-grayLightest, .icon-minimize-white, .icon-minus-10, .icon-minus-10-blueDark, .icon-minus-10-grayLightest, .icon-minus-10-white, .icon-minus-14, .icon-minus-14-grayLightest, .icon-minus-14-white, .icon-open, .icon-open-grayDark, .icon-open-white, .icon-paper-12, .icon-paper-12-grayDark, .icon-paper-14, .icon-paper-14-grayDark, .AdminOwnerListingTile.draft .approvalStatus, .icon-pencil, .icon-pencil-grayDark, .icon-pencil-grayLightest, .icon-pencil-white, .icon-plus-10, .icon-plus-10-blueDark, .icon-plus-10-grayLightest, .icon-plus-10-white, .icon-plus-14, .icon-plus-14-grayLightest, .icon-plus-14-white, .icon-plus-18, .icon-plus-18-grayLightest, .icon-plus-18-white, .icon-question, .icon-question-grayLightest, .icon-question-white, a:hover > .icon-question-grayLightest, .icon-reload-12, .icon-reload-12-blueDark, .icon-reload-12-grayDark, .icon-reload-14, .icon-reload-14-blueDark, .AdminOwnerListingTile.rejected .approvalStatus, .icon-reload-14-grayDark, .icon-rewind, .icon-rewind-grayLightest, .icon-rewind-white, .icon-ribbon, .icon-ribbon-filled, .icon-ribbon-filled-white, .icon-ribbon-filled-yellow, .icon-ribbon-grayDark, .icon-ribbon-grayLightest, .icon-ribbon-white, a:hover > .icon-ribbon-grayLightest, .icon-save, .icon-save-grayDark, .icon-save-white, .icon-search, .icon-search-grayDark, .icon-search-white, .icon-shopping, .icon-shopping-blue, .icon-shopping-grayLightest, .icon-shopping-settings, .icon-shopping-settings-grayLightest, .icon-shopping-settings-white, a:hover > .icon-shopping-settings-grayLightest, .icon-shopping-white, a:hover > .icon-shopping-grayLightest, .icon-square-plus, .icon-square-plus-grayDark, .icon-square-plus-grayLightest, .icon-square-plus-white, a:hover > .icon-square-plus-grayLightest, .icon-stack, .icon-stack-grayLightest, .icon-stack-white, .icon-star, .icon-star-filled, .icon-star-filled-grayLighter, .icon-star-filled-yellow, .icon-star-grayLighter, .icon-star-half-filled, .icon-star-half-filled-grayLighter, .icon-star-half-filled-yellow, .icon-star-halved, .icon-star-halved-grayLighter, .icon-star-halved-yellow, .icon-star-yellow, .icon-thumbs-up-12, .icon-thumbs-up-12-grayDark, .icon-thumbs-up-12-greenDark, .icon-thumbs-up-14, .icon-thumbs-up-14-grayDark, .icon-thumbs-up-14-greenDark, .AdminOwnerListingTile.published .approvalStatus, .icon-trash, .icon-trash-blue, .icon-trash-grayDark, .icon-trash-white, .icon-wrench, .icon-wrench-grayLightest, .icon-wrench-white {
   background-image: url(svg/sprite.css-8d47b3cc.svg);
   background-repeat: no-repeat; }
 
@@ -6088,7 +6088,7 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   width: 13.995px;
   height: 14px; }
 
-.icon-exclamation-14-redOrangeDark {
+.icon-exclamation-14-redOrangeDark, .AdminOwnerListingTile.needs-action .approvalStatus {
   background-position: 67.3060743732% 33.9805825243%;
   width: 13.995px;
   height: 14px; }
@@ -6233,7 +6233,7 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   width: 14px;
   height: 14px; }
 
-.icon-loader-14-blueDark {
+.icon-loader-14-blueDark, .AdminOwnerListingTile.pending .approvalStatus {
   background-position: 80.76875% 0;
   width: 14px;
   height: 14px; }
@@ -6373,7 +6373,7 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   width: 14px;
   height: 14px; }
 
-.icon-paper-14-grayDark {
+.icon-paper-14-grayDark, .AdminOwnerListingTile.draft .approvalStatus {
   background-position: 87.4995192308% 6.7961165049%;
   width: 14px;
   height: 14px; }
@@ -6483,7 +6483,7 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   width: 14px;
   height: 14px; }
 
-.icon-reload-14-blueDark {
+.icon-reload-14-blueDark, .AdminOwnerListingTile.rejected .approvalStatus {
   background-position: 74.0384615385% 87.3786407767%;
   width: 14px;
   height: 14px; }
@@ -6728,7 +6728,7 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   width: 14px;
   height: 14px; }
 
-.icon-thumbs-up-14-greenDark {
+.icon-thumbs-up-14-greenDark, .AdminOwnerListingTile.published .approvalStatus {
   background-position: 60.5769230769% 27.1844660194%;
   width: 14px;
   height: 14px; }
@@ -7520,11 +7520,13 @@ button.tool:hover .create-edit-button {
       height: 20px;
       line-height: 15px;
       padding: 3px; }
+    .Listings__SidebarFilter label i {
+      margin-right: 5px; }
   .Listings__SidebarFilter input:checked + label {
     border-left-color: #009dd3; }
-  .Listings__SidebarFilter .label-needs-action > span, .Listings__SidebarFilter .AdminOwnerListingTile.needs-action .approvalStatus > span, .AdminOwnerListingTile.needs-action .Listings__SidebarFilter .approvalStatus > span {
+  .Listings__SidebarFilter .label-needs-action > span {
     color: #ad4e27; }
-  .Listings__SidebarFilter .label-needs-action > strong, .Listings__SidebarFilter .AdminOwnerListingTile.needs-action .approvalStatus > strong, .AdminOwnerListingTile.needs-action .Listings__SidebarFilter .approvalStatus > strong {
+  .Listings__SidebarFilter .label-needs-action > strong {
     background-color: #ad4e27; }
 
 .FeedbackModal {
@@ -7583,7 +7585,7 @@ button.tool:hover .create-edit-button {
       margin-top: 6px; }
     .RecentActivity__SidebarFilter label i {
       margin-right: 4px; }
-  .RecentActivity__SidebarFilter .label-needs-action > span, .RecentActivity__SidebarFilter .AdminOwnerListingTile.needs-action .approvalStatus > span, .AdminOwnerListingTile.needs-action .RecentActivity__SidebarFilter .approvalStatus > span {
+  .RecentActivity__SidebarFilter .label-needs-action > span {
     color: #ad4e27; }
   .RecentActivity__SidebarFilter a:hover {
     text-decoration: none;
