@@ -5704,82 +5704,82 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   .load-error h5 {
     font-weight: bolder; }
 
-.svg-common, .icon-arrow-right, .icon-arrow-right-grayLightest, .icon-arrow-right-white, .icon-ban-12, .icon-ban-12-blue, .icon-ban-12-blueDark, .icon-ban-14, .icon-ban-14-blue, .icon-ban-14-blueDark, .icon-bar-graph-2, .icon-bar-graph-2-grayLightest, .icon-bar-graph-2-white, a:hover > .icon-bar-graph-2-grayLightest, .icon-bell, .icon-bell-filled, .icon-bell-filled-blue, .icon-bell-grayLightest, .icon-bell-white, a:hover > .icon-bell-grayLightest, .icon-caret-down-14, .icon-caret-down-14-blue, .icon-caret-down-14-blueDark, .icon-caret-down-14-grayDark, .AdminOwnerListingTile__actionMenuButton, .icon-caret-down-14-grayLightest, .icon-caret-down-14-white, .icon-caret-down-18, .icon-caret-down-18-blue, .icon-caret-down-18-blueDark, .icon-caret-down-18-grayDark, .icon-caret-down-18-grayLightest, .icon-caret-down-18-white, .icon-caret-left, .icon-caret-left-white, .icon-caret-right, .icon-caret-right-blueDark, .icon-caret-right-grayDarkest, .icon-caret-right-white, .icon-caret-up, .icon-caret-up-grayLightest, .icon-caret-up-white, .icon-check, .icon-check-white, .icon-circle-check, .icon-circle-check-green, .icon-cloud, .icon-cloud-grayLightest, .icon-cloud-upload, .icon-cloud-upload-grayDark, .icon-cloud-upload-white, .icon-cloud-white, a:hover > .icon-cloud-grayLightest, .icon-cog, .icon-cog-grayLightest, .icon-cog-white, a:hover > .icon-cog-grayLightest, .icon-cross-10, .icon-cross-10-grayDark, .icon-cross-10-grayDarker, .icon-cross-10-grayLightest, .icon-cross-10-white, .icon-cross-14, .icon-cross-14-grayDark, .icon-cross-14-grayDarker, .icon-cross-14-grayLightest, .icon-cross-14-white, .icon-cross-16, .icon-cross-16-grayDark, .icon-cross-16-grayDarker, .icon-cross-16-grayLightest, .icon-cross-16-white, .icon-cross-18, .icon-cross-18-grayDark, .icon-cross-18-grayDarker, .icon-cross-18-grayLightest, .icon-cross-18-white, .icon-exclamation-12, .icon-exclamation-12-grayDark, .icon-exclamation-12-redOrangeDark, .icon-exclamation-14, .icon-exclamation-14-grayDark, .icon-exclamation-14-redOrangeDark, .icon-eye, .icon-eye-grayDark, .icon-eye-white, .icon-fast-forward, .icon-fast-forward-grayLightest, .icon-fast-forward-white, .icon-grid, .icon-grid-grayLightest, .icon-grid-white, .icon-head, .icon-head-grayLightest, .icon-head-white, a:hover > .icon-head-grayLightest, .icon-home, .icon-home-blue, .icon-home-grayLightest, .icon-home-white, .icon-layers, .icon-layers-grayDark, .icon-layers-grayLightest, .icon-layers-white, a:hover > .icon-layers-grayLightest, .icon-layout, .icon-layout-blue, .icon-layout-grayLightest, .icon-layout-white, a:hover > .icon-layout-grayLightest, .icon-loader-12, .icon-loader-12-blueDark, .icon-loader-12-grayDark, .icon-loader-14, .icon-loader-14-blueDark, .icon-loader-14-grayDark, .icon-maximize, .icon-maximize-grayLightest, .icon-maximize-white, .icon-menu, .icon-menu-blue, .icon-menu-grayLightest, .icon-menu-white, a:hover > .icon-menu-grayLightest, .icon-minimize, .icon-minimize-grayLightest, .icon-minimize-white, .icon-minus-10, .icon-minus-10-blueDark, .icon-minus-10-grayLightest, .icon-minus-10-white, .icon-minus-14, .icon-minus-14-grayLightest, .icon-minus-14-white, .icon-open, .icon-open-grayDark, .icon-open-white, .icon-paper-12, .icon-paper-12-grayDark, .icon-paper-14, .icon-paper-14-grayDark, .icon-pencil, .icon-pencil-grayDark, .icon-pencil-grayLightest, .icon-pencil-white, .icon-plus-10, .icon-plus-10-blueDark, .icon-plus-10-grayLightest, .icon-plus-10-white, .icon-plus-14, .icon-plus-14-grayLightest, .icon-plus-14-white, .icon-plus-18, .icon-plus-18-grayLightest, .icon-plus-18-white, .icon-question, .icon-question-grayLightest, .icon-question-white, a:hover > .icon-question-grayLightest, .icon-reload-12, .icon-reload-12-blueDark, .icon-reload-12-grayDark, .icon-reload-14, .icon-reload-14-blueDark, .icon-reload-14-grayDark, .icon-rewind, .icon-rewind-grayLightest, .icon-rewind-white, .icon-ribbon, .icon-ribbon-filled, .icon-ribbon-filled-white, .icon-ribbon-filled-yellow, .icon-ribbon-grayDark, .icon-ribbon-grayLightest, .icon-ribbon-white, a:hover > .icon-ribbon-grayLightest, .icon-save, .icon-save-grayDark, .icon-save-white, .icon-search, .icon-search-grayDark, .icon-search-white, .icon-shopping, .icon-shopping-blue, .icon-shopping-grayLightest, .icon-shopping-settings, .icon-shopping-settings-grayLightest, .icon-shopping-settings-white, a:hover > .icon-shopping-settings-grayLightest, .icon-shopping-white, a:hover > .icon-shopping-grayLightest, .icon-square-plus, .icon-square-plus-grayDark, .icon-square-plus-grayLightest, .icon-square-plus-white, a:hover > .icon-square-plus-grayLightest, .icon-stack, .icon-stack-grayLightest, .icon-stack-white, .icon-star, .icon-star-filled, .icon-star-filled-grayLighter, .icon-star-filled-yellow, .icon-star-grayLighter, .icon-star-half-filled, .icon-star-half-filled-grayLighter, .icon-star-half-filled-yellow, .icon-star-halved, .icon-star-halved-grayLighter, .icon-star-halved-yellow, .icon-star-yellow, .icon-thumbs-up-12, .icon-thumbs-up-12-grayDark, .icon-thumbs-up-12-greenDark, .icon-thumbs-up-14, .icon-thumbs-up-14-grayDark, .icon-thumbs-up-14-greenDark, .icon-trash, .icon-trash-blue, .icon-trash-grayDark, .icon-trash-white, .icon-wrench, .icon-wrench-grayLightest, .icon-wrench-white {
-  background-image: url(svg/sprite.css-c85c0980.svg);
+.svg-common, .icon-arrow-right, .icon-arrow-right-grayLightest, .icon-arrow-right-white, .icon-ban-12, .icon-ban-12-blue, .icon-ban-12-blueDark, .icon-ban-14, .icon-ban-14-blue, .icon-ban-14-blueDark, .icon-bar-graph-2, .icon-bar-graph-2-grayLightest, .icon-bar-graph-2-white, a:hover > .icon-bar-graph-2-grayLightest, .icon-bell, .icon-bell-filled, .icon-bell-filled-blue, .icon-bell-grayLightest, .icon-bell-white, a:hover > .icon-bell-grayLightest, .icon-caret-down-14, .icon-caret-down-14-blue, .icon-caret-down-14-blueDark, .icon-caret-down-14-grayDark, .AdminOwnerListingTile__actionMenuButton, .icon-caret-down-14-grayLightest, .icon-caret-down-14-white, .icon-caret-down-18, .icon-caret-down-18-blue, .icon-caret-down-18-blueDark, .icon-caret-down-18-grayDark, .icon-caret-down-18-grayLightest, .icon-caret-down-18-white, .icon-caret-left, .icon-caret-left-white, .icon-caret-right, .icon-caret-right-blueDark, .icon-caret-right-grayDarkest, .icon-caret-right-white, .icon-caret-up, .icon-caret-up-grayLightest, .icon-caret-up-white, .icon-check, .icon-check-white, .icon-circle-check, .icon-circle-check-green, .icon-cloud, .icon-cloud-grayLightest, .icon-cloud-upload, .icon-cloud-upload-grayDark, .icon-cloud-upload-white, .icon-cloud-white, a:hover > .icon-cloud-grayLightest, .icon-cog, .icon-cog-grayLightest, .icon-cog-white, a:hover > .icon-cog-grayLightest, .icon-cross-10, .icon-cross-10-grayDark, .icon-cross-10-grayDarker, .icon-cross-10-grayLightest, .icon-cross-10-white, .icon-cross-14, .icon-cross-14-grayDark, .icon-cross-14-grayDarker, .icon-cross-14-grayLightest, .icon-cross-14-white, .icon-cross-16, .icon-cross-16-grayDark, .icon-cross-16-grayDarker, .icon-cross-16-grayLightest, .icon-cross-16-white, .icon-cross-18, .icon-cross-18-grayDark, .icon-cross-18-grayDarker, .icon-cross-18-grayLightest, .icon-cross-18-white, .icon-exclamation-12, .icon-exclamation-12-grayDark, .icon-exclamation-12-redOrangeDark, .icon-exclamation-14, .icon-exclamation-14-grayDark, .icon-exclamation-14-redOrangeDark, .icon-eye, .icon-eye-grayDark, .icon-eye-white, .icon-fast-forward, .icon-fast-forward-grayLightest, .icon-fast-forward-white, .icon-grid, .icon-grid-grayLightest, .icon-grid-white, .icon-head, .icon-head-grayLightest, .icon-head-white, a:hover > .icon-head-grayLightest, .icon-home, .icon-home-blue, .icon-home-grayLightest, .icon-home-white, .icon-layers, .icon-layers-grayDark, .icon-layers-grayLightest, .icon-layers-white, a:hover > .icon-layers-grayLightest, .icon-layout, .icon-layout-blue, .icon-layout-grayLightest, .icon-layout-white, a:hover > .icon-layout-grayLightest, .icon-loader-12, .icon-loader-12-blueDark, .icon-loader-12-grayDark, .icon-loader-14, .icon-loader-14-blueDark, .icon-loader-14-grayDark, .icon-lock, .icon-lock-grayDark, .icon-lock-grayDarkest, .icon-maximize, .icon-maximize-grayLightest, .icon-maximize-white, .icon-menu, .icon-menu-blue, .icon-menu-grayLightest, .icon-menu-white, a:hover > .icon-menu-grayLightest, .icon-minimize, .icon-minimize-grayLightest, .icon-minimize-white, .icon-minus-10, .icon-minus-10-blueDark, .icon-minus-10-grayLightest, .icon-minus-10-white, .icon-minus-14, .icon-minus-14-grayLightest, .icon-minus-14-white, .icon-open, .icon-open-grayDark, .icon-open-white, .icon-paper-12, .icon-paper-12-grayDark, .icon-paper-14, .icon-paper-14-grayDark, .icon-pencil, .icon-pencil-grayDark, .icon-pencil-grayLightest, .icon-pencil-white, .icon-plus-10, .icon-plus-10-blueDark, .icon-plus-10-grayLightest, .icon-plus-10-white, .icon-plus-14, .icon-plus-14-grayLightest, .icon-plus-14-white, .icon-plus-18, .icon-plus-18-grayLightest, .icon-plus-18-white, .icon-question, .icon-question-grayLightest, .icon-question-white, a:hover > .icon-question-grayLightest, .icon-reload-12, .icon-reload-12-blueDark, .icon-reload-12-grayDark, .icon-reload-14, .icon-reload-14-blueDark, .icon-reload-14-grayDark, .icon-rewind, .icon-rewind-grayLightest, .icon-rewind-white, .icon-ribbon, .icon-ribbon-filled, .icon-ribbon-filled-white, .icon-ribbon-filled-yellow, .icon-ribbon-grayDark, .icon-ribbon-grayLightest, .icon-ribbon-white, a:hover > .icon-ribbon-grayLightest, .icon-save, .icon-save-grayDark, .icon-save-white, .icon-search, .icon-search-grayDark, .icon-search-white, .icon-shopping, .icon-shopping-blue, .icon-shopping-grayLightest, .icon-shopping-settings, .icon-shopping-settings-grayLightest, .icon-shopping-settings-white, a:hover > .icon-shopping-settings-grayLightest, .icon-shopping-white, a:hover > .icon-shopping-grayLightest, .icon-square-plus, .icon-square-plus-grayDark, .icon-square-plus-grayLightest, .icon-square-plus-white, a:hover > .icon-square-plus-grayLightest, .icon-stack, .icon-stack-grayLightest, .icon-stack-white, .icon-star, .icon-star-filled, .icon-star-filled-grayLighter, .icon-star-filled-yellow, .icon-star-grayLighter, .icon-star-half-filled, .icon-star-half-filled-grayLighter, .icon-star-half-filled-yellow, .icon-star-halved, .icon-star-halved-grayLighter, .icon-star-halved-yellow, .icon-star-yellow, .icon-thumbs-up-12, .icon-thumbs-up-12-grayDark, .icon-thumbs-up-12-greenDark, .icon-thumbs-up-14, .icon-thumbs-up-14-grayDark, .icon-thumbs-up-14-greenDark, .icon-trash, .icon-trash-blue, .icon-trash-grayDark, .icon-trash-white, .icon-wrench, .icon-wrench-grayLightest, .icon-wrench-white {
+  background-image: url(svg/sprite.css-8d47b3cc.svg);
   background-repeat: no-repeat; }
 
 .icon-arrow-right {
-  background-position: 6.7307692308% 92.7835051546%;
+  background-position: 33.6538461538% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-arrow-right-grayLightest {
-  background-position: 67.3076923077% 78.3505154639%;
+  background-position: 80.76875% 6.7961165049%;
   width: 14px;
   height: 14px; }
 
 .icon-arrow-right-white {
-  background-position: 13.4615384615% 92.7835051546%;
+  background-position: 40.3846153846% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-ban-12 {
-  background-position: 73.3333333333% 98.9795918367%;
+  background-position: 80% 93.2692307692%;
   width: 12px;
   height: 12px; }
 
 .icon-ban-12-blue {
-  background-position: 79.0476190476% 98.9795918367%;
+  background-position: 85.7142857143% 93.2692307692%;
   width: 12px;
   height: 12px; }
 
 .icon-ban-12-blueDark {
-  background-position: 84.7619047619% 98.9795918367%;
+  background-position: 91.4285714286% 93.2692307692%;
   width: 12px;
   height: 12px; }
 
 .icon-ban-14 {
-  background-position: 0 71.1340206186%;
+  background-position: 0 66.9902912621%;
   width: 14px;
   height: 14px; }
 
 .icon-ban-14-blue {
-  background-position: 74.0379807692% 35.1793814433%;
+  background-position: 74.0379807692% 33.1300970874%;
   width: 14px;
   height: 14px; }
 
 .icon-ban-14-blueDark {
-  background-position: 74.0379807692% 42.3958762887%;
+  background-position: 74.0379807692% 39.9262135922%;
   width: 14px;
   height: 14px; }
 
 .icon-bar-graph-2 {
-  background-position: 74.0379807692% 49.612371134%;
+  background-position: 74.0379807692% 46.7223300971%;
   width: 14px;
   height: 14px; }
 
 .icon-bar-graph-2-grayLightest {
-  background-position: 74.0379807692% 56.8288659794%;
+  background-position: 74.0379807692% 53.5184466019%;
   width: 14px;
   height: 14px; }
 
 .icon-bar-graph-2-white, a:hover > .icon-bar-graph-2-grayLightest {
-  background-position: 20.1923076923% 78.3505154639%;
+  background-position: 20.1923076923% 73.786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-bell {
-  background-position: 26.4705882353% 37.8947368421%;
+  background-position: 26.4705882353% 35.6435643564%;
   width: 18px;
   height: 18px; }
 
 .icon-bell-filled {
-  background-position: 0 9.4736842105%;
+  background-position: 0 8.9108910891%;
   width: 18px;
   height: 18px; }
 
 .icon-bell-filled-blue {
-  background-position: 8.8235294118% 9.4736842105%;
+  background-position: 8.8235294118% 8.9108910891%;
   width: 18px;
   height: 18px; }
 
@@ -5789,27 +5789,27 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 18px; }
 
 .icon-bell-white, a:hover > .icon-bell-grayLightest {
-  background-position: 17.6470588235% 9.4736842105%;
+  background-position: 17.6470588235% 8.9108910891%;
   width: 18px;
   height: 18px; }
 
 .icon-caret-down-14 {
-  background-position: 40.3844212287% 63.9175257732%;
+  background-position: 40.3844212287% 60.1941747573%;
   width: 13.999px;
   height: 14px; }
 
 .icon-caret-down-14-blue {
-  background-position: 47.1146773333% 63.9175257732%;
+  background-position: 47.1146773333% 60.1941747573%;
   width: 13.999px;
   height: 14px; }
 
 .icon-caret-down-14-blueDark {
-  background-position: 53.8449334378% 63.9175257732%;
+  background-position: 53.8449334378% 60.1941747573%;
   width: 13.999px;
   height: 14px; }
 
 .icon-caret-down-14-grayDark, .AdminOwnerListingTile__actionMenuButton {
-  background-position: 60.5751895424% 63.9175257732%;
+  background-position: 60.5751895424% 60.1941747573%;
   width: 13.999px;
   height: 14px; }
 
@@ -5819,22 +5819,22 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 14px; }
 
 .icon-caret-down-14-white {
-  background-position: 67.3073687146% 7.2164948454%;
+  background-position: 67.3073687146% 6.7961165049%;
   width: 13.999px;
   height: 14px; }
 
 .icon-caret-down-18 {
-  background-position: 0 18.9473684211%;
+  background-position: 0 17.8217821782%;
   width: 18px;
   height: 18px; }
 
 .icon-caret-down-18-blue {
-  background-position: 8.8235294118% 18.9473684211%;
+  background-position: 8.8235294118% 17.8217821782%;
   width: 18px;
   height: 18px; }
 
 .icon-caret-down-18-blueDark {
-  background-position: 17.6470588235% 18.9473684211%;
+  background-position: 17.6470588235% 17.8217821782%;
   width: 18px;
   height: 18px; }
 
@@ -5844,117 +5844,117 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 18px; }
 
 .icon-caret-down-18-grayLightest {
-  background-position: 26.4705882353% 9.4736842105%;
+  background-position: 26.4705882353% 8.9108910891%;
   width: 18px;
   height: 18px; }
 
 .icon-caret-down-18-white {
-  background-position: 26.4705882353% 18.9473684211%;
+  background-position: 26.4705882353% 17.8217821782%;
   width: 18px;
   height: 18px; }
 
 .icon-caret-left {
-  background-position: 26.9230769231% 78.3505154639%;
+  background-position: 26.9230769231% 73.786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-caret-left-white {
-  background-position: 33.6538461538% 78.3505154639%;
+  background-position: 33.6538461538% 73.786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-caret-right {
-  background-position: 40.3846153846% 78.3505154639%;
+  background-position: 40.3846153846% 73.786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-caret-right-blueDark {
-  background-position: 80.76875% 36.0809278351%;
+  background-position: 80.76875% 54.3674757282%;
   width: 14px;
   height: 14px; }
 
 .icon-caret-right-grayDarkest {
-  background-position: 80.76875% 43.2974226804%;
+  background-position: 80.76875% 61.163592233%;
   width: 14px;
   height: 14px; }
 
 .icon-caret-right-white {
-  background-position: 80.76875% 50.5139175258%;
+  background-position: 80.76875% 67.9597087379%;
   width: 14px;
   height: 14px; }
 
 .icon-caret-up {
-  background-position: 80.76875% 57.7304123711%;
+  background-position: 0 80.5825242718%;
   width: 14px;
   height: 14px; }
 
 .icon-caret-up-grayLightest {
-  background-position: 87.4995192308% 70.7469072165%;
+  background-position: 6.7307692308% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-caret-up-white {
-  background-position: 87.4995192308% 77.9634020619%;
+  background-position: 13.4615384615% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-check {
-  background-position: 87.4995192308% 85.1798969072%;
+  background-position: 20.1923076923% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-check-white {
-  background-position: 0 92.7835051546%;
+  background-position: 26.9230769231% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-circle-check {
-  background-position: 14.9758454106% 55.9585492228%;
+  background-position: 14.9758454106% 52.6829268293%;
   width: 15px;
   height: 15px; }
 
 .icon-circle-check-green {
-  background-position: 7.729468599% 55.9585492228%;
+  background-position: 7.729468599% 52.6829268293%;
   width: 15px;
   height: 15px; }
 
 .icon-cloud {
-  background-position: 94.2302884615% 86.5963917526%;
+  background-position: 20.1923076923% 94.1747572816%;
   width: 14px;
   height: 14px; }
 
 .icon-cloud-grayLightest {
-  background-position: 0 100%;
+  background-position: 26.9230769231% 94.1747572816%;
   width: 14px;
   height: 14px; }
 
 .icon-cloud-upload {
-  background-position: 6.7307692308% 100%;
+  background-position: 33.6538461538% 94.1747572816%;
   width: 14px;
   height: 14px; }
 
 .icon-cloud-upload-grayDark {
-  background-position: 33.6538461538% 100%;
+  background-position: 60.5769230769% 94.1747572816%;
   width: 14px;
   height: 14px; }
 
 .icon-cloud-upload-white {
-  background-position: 28.8461538462% 55.6701030928%;
+  background-position: 28.8461538462% 52.427184466%;
   width: 14px;
   height: 14px; }
 
 .icon-cloud-white, a:hover > .icon-cloud-grayLightest {
-  background-position: 35.5769230769% 55.6701030928%;
+  background-position: 35.5769230769% 52.427184466%;
   width: 14px;
   height: 14px; }
 
 .icon-cog {
-  background-position: 42.3076923077% 55.6701030928%;
+  background-position: 42.3076923077% 52.427184466%;
   width: 14px;
   height: 14px; }
 
 .icon-cog-grayLightest {
-  background-position: 49.0384615385% 55.6701030928%;
+  background-position: 49.0384615385% 52.427184466%;
   width: 14px;
   height: 14px; }
 
@@ -5964,97 +5964,97 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 14px; }
 
 .icon-cross-10 {
-  background-position: 99.0561320755% 52.5252525253%;
+  background-position: 99.0561320755% 55.2380952381%;
   width: 10px;
   height: 10px; }
 
 .icon-cross-10-grayDark {
-  background-position: 99.0561320755% 47.4747474747%;
+  background-position: 99.0561320755% 50.4761904762%;
   width: 10px;
   height: 10px; }
 
 .icon-cross-10-grayDarker {
-  background-position: 99.0561320755% 12.1212121212%;
+  background-position: 99.0561320755% 74.2857142857%;
   width: 10px;
   height: 10px; }
 
 .icon-cross-10-grayLightest {
-  background-position: 99.0561320755% 37.3737373737%;
+  background-position: 99.0561320755% 40.9523809524%;
   width: 10px;
   height: 10px; }
 
 .icon-cross-10-white {
-  background-position: 99.0561320755% 32.3232323232%;
+  background-position: 99.0561320755% 36.1904761905%;
   width: 10px;
   height: 10px; }
 
 .icon-cross-14 {
-  background-position: 60.5769230769% 43.2989690722%;
+  background-position: 60.5769230769% 40.7766990291%;
   width: 14px;
   height: 14px; }
 
 .icon-cross-14-grayDark {
-  background-position: 60.5769230769% 50.5154639175%;
+  background-position: 60.5769230769% 47.572815534%;
   width: 14px;
   height: 14px; }
 
 .icon-cross-14-grayDarker {
-  background-position: 0 63.9175257732%;
+  background-position: 0 60.1941747573%;
   width: 14px;
   height: 14px; }
 
 .icon-cross-14-grayLightest {
-  background-position: 6.7307692308% 63.9175257732%;
+  background-position: 6.7307692308% 60.1941747573%;
   width: 14px;
   height: 14px; }
 
 .icon-cross-14-white {
-  background-position: 13.4615384615% 63.9175257732%;
+  background-position: 13.4615384615% 60.1941747573%;
   width: 14px;
   height: 14px; }
 
 .icon-cross-16 {
-  background-position: 0 56.25%;
+  background-position: 0 52.9411764706%;
   width: 16px;
   height: 16px; }
 
 .icon-cross-16-grayDark {
-  background-position: 52.427184466% 43.75%;
+  background-position: 52.427184466% 41.1764705882%;
   width: 16px;
   height: 16px; }
 
 .icon-cross-16-grayDarker {
-  background-position: 52.427184466% 35.4166666667%;
+  background-position: 52.427184466% 33.3333333333%;
   width: 16px;
   height: 16px; }
 
 .icon-cross-16-grayLightest {
-  background-position: 52.427184466% 27.0833333333%;
+  background-position: 52.427184466% 25.4901960784%;
   width: 16px;
   height: 16px; }
 
 .icon-cross-16-white {
-  background-position: 52.427184466% 18.75%;
+  background-position: 52.427184466% 17.6470588235%;
   width: 16px;
   height: 16px; }
 
 .icon-cross-18 {
-  background-position: 35.2941176471% 28.4189473684%;
+  background-position: 35.2941176471% 26.7306930693%;
   width: 18px;
   height: 18px; }
 
 .icon-cross-18-grayDark {
-  background-position: 0 37.8947368421%;
+  background-position: 0 35.6435643564%;
   width: 18px;
   height: 18px; }
 
 .icon-cross-18-grayDarker {
-  background-position: 8.8235294118% 37.8947368421%;
+  background-position: 8.8235294118% 35.6435643564%;
   width: 18px;
   height: 18px; }
 
 .icon-cross-18-grayLightest {
-  background-position: 17.6470588235% 37.8947368421%;
+  background-position: 17.6470588235% 35.6435643564%;
   width: 18px;
   height: 18px; }
 
@@ -6064,67 +6064,67 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 18px; }
 
 .icon-exclamation-12 {
-  background-position: 93.3306349849% 92.8560860004%;
+  background-position: 93.3306349849% 87.4989783605%;
   width: 11.995px;
   height: 12.001px; }
 
 .icon-exclamation-12-grayDark {
-  background-position: 79.9976191043% 78.5702988281%;
+  background-position: 79.9976191043% 74.0373751797%;
   width: 11.995px;
   height: 12.001px; }
 
 .icon-exclamation-12-redOrangeDark {
-  background-position: 73.331111164% 70.5350537503%;
+  background-position: 79.996666746% 79.8080760004%;
   width: 11.995px;
   height: 12.001px; }
 
 .icon-exclamation-14 {
-  background-position: 67.3060743732% 21.6494845361%;
+  background-position: 67.3060743732% 20.3883495146%;
   width: 13.995px;
   height: 14px; }
 
 .icon-exclamation-14-grayDark {
-  background-position: 67.3060743732% 28.8659793814%;
+  background-position: 67.3060743732% 27.1844660194%;
   width: 13.995px;
   height: 14px; }
 
 .icon-exclamation-14-redOrangeDark {
-  background-position: 67.3060743732% 36.0824742268%;
+  background-position: 67.3060743732% 33.9805825243%;
   width: 13.995px;
   height: 14px; }
 
 .icon-eye {
-  background-position: 20.1923076923% 71.1340206186%;
+  background-position: 20.1923076923% 66.9902912621%;
   width: 14px;
   height: 14px; }
 
 .icon-eye-grayDark {
-  background-position: 26.9230769231% 71.1340206186%;
+  background-position: 26.9230769231% 66.9902912621%;
   width: 14px;
   height: 14px; }
 
 .icon-eye-white {
-  background-position: 33.6538461538% 71.1340206186%;
+  background-position: 33.6538461538% 66.9902912621%;
   width: 14px;
   height: 14px; }
 
 .icon-fast-forward {
-  background-position: 40.3846153846% 71.1340206186%;
+  background-position: 40.3846153846% 66.9902912621%;
   width: 14px;
   height: 14px; }
 
 .icon-fast-forward-grayLightest {
-  background-position: 47.1153846154% 71.1340206186%;
+  background-position: 47.1153846154% 66.9902912621%;
   width: 14px;
   height: 14px; }
 
 .icon-fast-forward-white {
-  background-position: 53.8461538462% 71.1340206186%;
+  background-position: 53.8461538462% 66.9902912621%;
   width: 14px;
   height: 14px; }
 
 .icon-grid {
-  background-position: 60.5769230769% 71.1340206186%;
+  background-position: 60.5769230769% 66.9902912621%;
   width: 14px;
   height: 14px; }
 
@@ -6134,27 +6134,27 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 14px; }
 
 .icon-grid-white {
-  background-position: 74.0379807692% 7.2164948454%;
+  background-position: 74.0379807692% 6.7961165049%;
   width: 14px;
   height: 14px; }
 
 .icon-head {
-  background-position: 74.0379807692% 14.3896723266%;
+  background-position: 74.0379807692% 13.5538086202%;
   width: 14px;
   height: 13.416px; }
 
 .icon-head-grayLightest {
-  background-position: 74.0379807692% 21.2843810385%;
+  background-position: 74.0379807692% 20.0480192077%;
   width: 14px;
   height: 13.416px; }
 
 .icon-head-white, a:hover > .icon-head-grayLightest {
-  background-position: 74.0379807692% 28.1790897504%;
+  background-position: 74.0379807692% 26.5422297951%;
   width: 14px;
   height: 13.416px; }
 
 .icon-home {
-  background-position: 35.2941176471% 37.8947368421%;
+  background-position: 35.2941176471% 35.6435643564%;
   width: 18px;
   height: 18px; }
 
@@ -6164,72 +6164,72 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 18px; }
 
 .icon-home-grayLightest {
-  background-position: 44.1176470588% 9.4736842105%;
+  background-position: 44.1176470588% 8.9108910891%;
   width: 18px;
   height: 18px; }
 
 .icon-home-white {
-  background-position: 44.1176470588% 18.9473684211%;
+  background-position: 44.1176470588% 17.8217821782%;
   width: 18px;
   height: 18px; }
 
 .icon-layers {
-  background-position: 74.0379807692% 64.0453608247%;
+  background-position: 74.0379807692% 60.3145631068%;
   width: 14px;
   height: 14px; }
 
 .icon-layers-grayDark {
-  background-position: 0 78.3505154639%;
+  background-position: 0 73.786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-layers-grayLightest {
-  background-position: 6.7307692308% 78.3505154639%;
+  background-position: 6.7307692308% 73.786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-layers-white, a:hover > .icon-layers-grayLightest {
-  background-position: 13.4615384615% 78.3505154639%;
+  background-position: 13.4615384615% 73.786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-layout {
-  background-position: 44.1176470588% 28.4210526316%;
+  background-position: 44.1176470588% 26.7326732673%;
   width: 18px;
   height: 18px; }
 
 .icon-layout-blue {
-  background-position: 44.1176470588% 37.8947368421%;
+  background-position: 44.1176470588% 35.6435643564%;
   width: 18px;
   height: 18px; }
 
 .icon-layout-grayLightest {
-  background-position: 0 47.3684210526%;
+  background-position: 0 44.5544554455%;
   width: 18px;
   height: 18px; }
 
 .icon-layout-white, a:hover > .icon-layout-grayLightest {
-  background-position: 8.8235294118% 47.3684210526%;
+  background-position: 8.8235294118% 44.5544554455%;
   width: 18px;
   height: 18px; }
 
 .icon-loader-12 {
-  background-position: 47.1153846154% 78.3505154639%;
+  background-position: 47.1153846154% 73.786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-loader-12-blueDark {
-  background-position: 53.8461538462% 78.3505154639%;
+  background-position: 53.8461538462% 73.786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-loader-12-grayDark {
-  background-position: 60.5769230769% 78.3505154639%;
+  background-position: 60.5769230769% 73.786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-loader-14 {
-  background-position: 22.1153846154% 55.6701030928%;
+  background-position: 67.3076923077% 73.786407767%;
   width: 14px;
   height: 14px; }
 
@@ -6239,182 +6239,197 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 14px; }
 
 .icon-loader-14-grayDark {
-  background-position: 80.76875% 7.2164948454%;
+  background-position: 22.1153846154% 52.427184466%;
   width: 14px;
   height: 14px; }
 
+.icon-lock {
+  background-position: 99.9990476236% 11.5384615385%;
+  width: 11.999px;
+  height: 12px; }
+
+.icon-lock-grayDark {
+  background-position: 99.9990476236% 5.7692307692%;
+  width: 11.999px;
+  height: 12px; }
+
+.icon-lock-grayDarkest {
+  background-position: 99.9990476236% 0;
+  width: 11.999px;
+  height: 12px; }
+
 .icon-maximize {
-  background-position: 80.76875% 14.4329152943%;
+  background-position: 80.76875% 33.9804175708%;
   width: 14px;
   height: 13.999px; }
 
 .icon-maximize-grayLightest {
-  background-position: 80.76875% 21.6488574801%;
+  background-position: 80.76875% 40.7760156504%;
   width: 14px;
   height: 13.999px; }
 
 .icon-maximize-white {
-  background-position: 80.76875% 28.864799666%;
+  background-position: 80.76875% 47.57161373%;
   width: 14px;
   height: 13.999px; }
 
 .icon-menu {
-  background-position: 17.6470588235% 47.3684210526%;
+  background-position: 17.6470588235% 44.5544554455%;
   width: 18px;
   height: 18px; }
 
 .icon-menu-blue {
-  background-position: 26.4705882353% 47.3684210526%;
+  background-position: 26.4705882353% 44.5544554455%;
   width: 18px;
   height: 18px; }
 
 .icon-menu-grayLightest {
-  background-position: 35.2941176471% 47.3684210526%;
+  background-position: 35.2941176471% 44.5544554455%;
   width: 18px;
   height: 18px; }
 
 .icon-menu-white, a:hover > .icon-menu-grayLightest {
-  background-position: 44.1176470588% 47.3684210526%;
+  background-position: 44.1176470588% 44.5544554455%;
   width: 18px;
   height: 18px; }
 
 .icon-minimize {
-  background-position: 80.7675850829% 64.9469072165%;
+  background-position: 67.3067215377% 40.7766990291%;
   width: 13.997px;
   height: 14px; }
 
 .icon-minimize-grayLightest {
-  background-position: 80.7675850829% 72.1634020619%;
+  background-position: 67.3067215377% 47.572815534%;
   width: 13.997px;
   height: 14px; }
 
 .icon-minimize-white {
-  background-position: 67.3067215377% 43.2989690722%;
+  background-position: 67.3067215377% 54.3689320388%;
   width: 13.997px;
   height: 14px; }
 
 .icon-minus-10 {
-  background-position: 99.0561320755% 27.2727272727%;
+  background-position: 99.0561320755% 17.1428571429%;
   width: 10px;
   height: 10px; }
 
 .icon-minus-10-blueDark {
-  background-position: 99.0561320755% 57.5757575758%;
+  background-position: 99.0561320755% 45.7142857143%;
   width: 10px;
   height: 10px; }
 
 .icon-minus-10-grayLightest {
-  background-position: 99.0561320755% 62.6262626263%;
+  background-position: 99.0561320755% 21.9047619048%;
   width: 10px;
   height: 10px; }
 
 .icon-minus-10-white {
-  background-position: 99.0561320755% 67.6767676768%;
+  background-position: 99.0561320755% 26.6666666667%;
   width: 10px;
   height: 10px; }
 
 .icon-minus-14 {
-  background-position: 13.4615384615% 85.5670103093%;
+  background-position: 26.9230769231% 80.5825242718%;
   width: 14px;
   height: 14px; }
 
 .icon-minus-14-grayLightest {
-  background-position: 20.1923076923% 85.5670103093%;
+  background-position: 33.6538461538% 80.5825242718%;
   width: 14px;
   height: 14px; }
 
 .icon-minus-14-white {
-  background-position: 26.9230769231% 85.5670103093%;
+  background-position: 40.3846153846% 80.5825242718%;
   width: 14px;
   height: 14px; }
 
 .icon-open {
-  background-position: 33.6536843573% 85.5670103093%;
+  background-position: 47.1151581002% 80.5825242718%;
   width: 13.999px;
   height: 14px; }
 
 .icon-open-grayDark {
-  background-position: 40.3839404618% 85.5670103093%;
+  background-position: 53.8454142047% 80.5825242718%;
   width: 13.999px;
   height: 14px; }
 
 .icon-open-white {
-  background-position: 47.1141965664% 85.5670103093%;
+  background-position: 60.5756703093% 80.5825242718%;
   width: 13.999px;
   height: 14px; }
 
 .icon-paper-12 {
-  background-position: 99.9995238095% 0;
+  background-position: 66.6666666667% 60.5769230769%;
   width: 12px;
   height: 12px; }
 
 .icon-paper-12-grayDark {
-  background-position: 66.6666666667% 64.2857142857%;
+  background-position: 86.6661904762% 80.7692307692%;
   width: 12px;
   height: 12px; }
 
 .icon-paper-14 {
-  background-position: 67.30625% 85.5670103093%;
-  width: 14px;
-  height: 14px; }
-
-.icon-paper-14-grayDark {
-  background-position: 74.0370192308% 85.5670103093%;
-  width: 14px;
-  height: 14px; }
-
-.icon-pencil {
-  background-position: 80.7677884615% 85.5670103093%;
-  width: 14px;
-  height: 14px; }
-
-.icon-pencil-grayDark {
   background-position: 87.4995192308% 0;
   width: 14px;
   height: 14px; }
 
+.icon-paper-14-grayDark {
+  background-position: 87.4995192308% 6.7961165049%;
+  width: 14px;
+  height: 14px; }
+
+.icon-pencil {
+  background-position: 87.4995192308% 13.5922330097%;
+  width: 14px;
+  height: 14px; }
+
+.icon-pencil-grayDark {
+  background-position: 87.4995192308% 20.3883495146%;
+  width: 14px;
+  height: 14px; }
+
 .icon-pencil-grayLightest {
-  background-position: 87.4995192308% 7.2164948454%;
+  background-position: 87.4995192308% 27.1844660194%;
   width: 14px;
   height: 14px; }
 
 .icon-pencil-white {
-  background-position: 87.4995192308% 14.4329896907%;
+  background-position: 87.4995192308% 33.9805825243%;
   width: 14px;
   height: 14px; }
 
 .icon-plus-10 {
-  background-position: 99.0561320755% 22.2222222222%;
+  background-position: 99.0561320755% 31.4285714286%;
   width: 10px;
   height: 10px; }
 
 .icon-plus-10-blueDark {
-  background-position: 99.0561320755% 17.1717171717%;
+  background-position: 99.0561320755% 60%;
   width: 10px;
   height: 10px; }
 
 .icon-plus-10-grayLightest {
-  background-position: 99.0561320755% 42.4242424242%;
+  background-position: 99.0561320755% 64.7619047619%;
   width: 10px;
   height: 10px; }
 
 .icon-plus-10-white {
-  background-position: 99.0561320755% 72.7272727273%;
+  background-position: 99.0561320755% 69.5238095238%;
   width: 10px;
   height: 10px; }
 
 .icon-plus-14 {
-  background-position: 87.4995192308% 49.0974226804%;
+  background-position: 87.4995192308% 67.9611650485%;
   width: 14px;
   height: 14px; }
 
 .icon-plus-14-grayLightest {
-  background-position: 87.4995192308% 56.3139175258%;
+  background-position: 87.4995192308% 74.7572815534%;
   width: 14px;
   height: 14px; }
 
 .icon-plus-14-white {
-  background-position: 87.4995192308% 63.5304123711%;
+  background-position: 0 87.3786407767%;
   width: 14px;
   height: 14px; }
 
@@ -6424,17 +6439,17 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 18px; }
 
 .icon-plus-18-grayLightest {
-  background-position: 52.9411764706% 9.4736842105%;
+  background-position: 52.9411764706% 8.9108910891%;
   width: 18px;
   height: 18px; }
 
 .icon-plus-18-white {
-  background-position: 35.2941176471% 18.9452631579%;
+  background-position: 35.2941176471% 17.8198019802%;
   width: 18px;
   height: 18px; }
 
 .icon-question {
-  background-position: 35.2941176471% 9.4725318681%;
+  background-position: 35.2941176471% 8.9098127741%;
   width: 18px;
   height: 17.998px; }
 
@@ -6444,147 +6459,147 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 17.998px; }
 
 .icon-question-white, a:hover > .icon-question-grayLightest {
-  background-position: 26.4705882353% 28.4207534658%;
+  background-position: 26.4705882353% 26.73240859%;
   width: 18px;
   height: 17.998px; }
 
 .icon-reload-12 {
-  background-position: 90.4761904762% 98.9795918367%;
+  background-position: 60% 53.8461538462%;
   width: 12px;
   height: 12px; }
 
 .icon-reload-12-blueDark {
-  background-position: 99.9995238095% 6.1224489796%;
+  background-position: 0 100%;
   width: 12px;
   height: 12px; }
 
 .icon-reload-12-grayDark {
-  background-position: 60% 57.1428571429%;
+  background-position: 5.7142857143% 100%;
   width: 12px;
   height: 12px; }
 
 .icon-reload-14 {
-  background-position: 40.3846153846% 92.7835051546%;
+  background-position: 67.3076923077% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-reload-14-blueDark {
-  background-position: 47.1153846154% 92.7835051546%;
+  background-position: 74.0384615385% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-reload-14-grayDark {
-  background-position: 53.8461538462% 92.7835051546%;
+  background-position: 80.7692307692% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-rewind {
-  background-position: 60.5769230769% 92.7835051546%;
-  width: 14px;
-  height: 14px; }
-
-.icon-rewind-grayLightest {
-  background-position: 67.3076923077% 92.7835051546%;
-  width: 14px;
-  height: 14px; }
-
-.icon-rewind-white {
-  background-position: 74.0384615385% 92.7835051546%;
-  width: 14px;
-  height: 14px; }
-
-.icon-ribbon {
-  background-position: 80.7692307692% 92.7835051546%;
-  width: 14px;
-  height: 14px; }
-
-.icon-ribbon-filled {
   background-position: 94.2302884615% 0;
   width: 14px;
   height: 14px; }
 
+.icon-rewind-grayLightest {
+  background-position: 94.2302884615% 6.7961165049%;
+  width: 14px;
+  height: 14px; }
+
+.icon-rewind-white {
+  background-position: 94.2302884615% 13.5922330097%;
+  width: 14px;
+  height: 14px; }
+
+.icon-ribbon {
+  background-position: 94.2302884615% 20.3883495146%;
+  width: 14px;
+  height: 14px; }
+
+.icon-ribbon-filled {
+  background-position: 94.2302884615% 27.1844660194%;
+  width: 14px;
+  height: 14px; }
+
 .icon-ribbon-filled-white {
-  background-position: 94.2302884615% 7.2164948454%;
+  background-position: 94.2302884615% 33.9805825243%;
   width: 14px;
   height: 14px; }
 
 .icon-ribbon-filled-yellow {
-  background-position: 94.2302884615% 14.4329896907%;
+  background-position: 94.2302884615% 40.7766990291%;
   width: 14px;
   height: 14px; }
 
 .icon-ribbon-grayDark {
-  background-position: 94.2302884615% 21.6494845361%;
+  background-position: 94.2302884615% 47.572815534%;
   width: 14px;
   height: 14px; }
 
 .icon-ribbon-grayLightest {
-  background-position: 94.2302884615% 28.8659793814%;
+  background-position: 94.2302884615% 54.3689320388%;
   width: 14px;
   height: 14px; }
 
 .icon-ribbon-white, a:hover > .icon-ribbon-grayLightest {
-  background-position: 94.2302884615% 36.0824742268%;
+  background-position: 94.2302884615% 61.1650485437%;
   width: 14px;
   height: 14px; }
 
 .icon-save {
-  background-position: 94.2302884615% 43.2987458828%;
+  background-position: 94.2302884615% 67.9608351416%;
   width: 14px;
   height: 13.999px; }
 
 .icon-save-grayDark {
-  background-position: 94.2302884615% 50.5146880686%;
+  background-position: 94.2302884615% 74.7564332212%;
   width: 14px;
   height: 13.999px; }
 
 .icon-save-white {
-  background-position: 94.2302884615% 57.7306302545%;
+  background-position: 94.2302884615% 81.5520313008%;
   width: 14px;
   height: 13.999px; }
 
 .icon-search {
-  background-position: 94.2302884615% 64.9469072165%;
+  background-position: 0 94.1747572816%;
   width: 14px;
   height: 14px; }
 
 .icon-search-grayDark {
-  background-position: 94.2302884615% 72.1634020619%;
+  background-position: 6.7307692308% 94.1747572816%;
   width: 14px;
   height: 14px; }
 
 .icon-search-white {
-  background-position: 94.2302884615% 79.3798969072%;
+  background-position: 13.4615384615% 94.1747572816%;
   width: 14px;
   height: 14px; }
 
 .icon-shopping {
-  background-position: 17.6470588235% 28.4210526316%;
+  background-position: 17.6470588235% 26.7326732673%;
   width: 18px;
   height: 18px; }
 
 .icon-shopping-blue {
-  background-position: 8.8235294118% 28.4210526316%;
+  background-position: 8.8235294118% 26.7326732673%;
   width: 18px;
   height: 18px; }
 
 .icon-shopping-grayLightest {
-  background-position: 0 28.4210526316%;
+  background-position: 0 26.7326732673%;
   width: 18px;
   height: 18px; }
 
 .icon-shopping-settings {
-  background-position: 13.4615384615% 100%;
+  background-position: 40.3846153846% 94.1747572816%;
   width: 14px;
   height: 14px; }
 
 .icon-shopping-settings-grayLightest {
-  background-position: 20.1923076923% 100%;
+  background-position: 47.1153846154% 94.1747572816%;
   width: 14px;
   height: 14px; }
 
 .icon-shopping-settings-white, a:hover > .icon-shopping-settings-grayLightest {
-  background-position: 26.9230769231% 100%;
+  background-position: 53.8461538462% 94.1747572816%;
   width: 14px;
   height: 14px; }
 
@@ -6594,162 +6609,162 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 18px; }
 
 .icon-square-plus {
-  background-position: 40.3846153846% 100%;
+  background-position: 67.3076923077% 94.1747572816%;
   width: 14px;
   height: 14px; }
 
 .icon-square-plus-grayDark {
-  background-position: 47.1153846154% 100%;
+  background-position: 60.5769230769% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-square-plus-grayLightest {
-  background-position: 53.8461538462% 100%;
+  background-position: 53.8461538462% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-square-plus-white, a:hover > .icon-square-plus-grayLightest {
-  background-position: 60.5769230769% 100%;
+  background-position: 47.1153846154% 87.3786407767%;
   width: 14px;
   height: 14px; }
 
 .icon-stack {
-  background-position: 33.6538461538% 92.7835051546%;
+  background-position: 87.4995192308% 61.1650485437%;
   width: 14px;
   height: 14px; }
 
 .icon-stack-grayLightest {
-  background-position: 26.9230769231% 92.7835051546%;
+  background-position: 87.4995192308% 54.3689320388%;
   width: 14px;
   height: 14px; }
 
 .icon-stack-white {
-  background-position: 20.1923076923% 92.7835051546%;
+  background-position: 87.4995192308% 47.572815534%;
   width: 14px;
   height: 14px; }
 
 .icon-star {
-  background-position: 87.4995192308% 41.8809278351%;
+  background-position: 87.4995192308% 40.7766990291%;
   width: 14px;
   height: 14px; }
 
 .icon-star-filled {
-  background-position: 87.4995192308% 34.9718085134%;
+  background-position: 74.0370192308% 80.2254043892%;
   width: 14px;
   height: 13.083px; }
 
 .icon-star-filled-grayLighter {
-  background-position: 87.4995192308% 28.2597208042%;
+  background-position: 67.30625% 80.2254043892%;
   width: 14px;
   height: 13.083px; }
 
 .icon-star-filled-yellow {
-  background-position: 87.4995192308% 21.5476330951%;
+  background-position: 74.0379807692% 66.8132632891%;
   width: 14px;
   height: 13.083px; }
 
 .icon-star-grayLighter {
-  background-position: 60.5754807692% 85.5670103093%;
+  background-position: 20.1923076923% 80.5825242718%;
   width: 14px;
   height: 14px; }
 
 .icon-star-half-filled {
-  background-position: 53.8447115385% 85.5670103093%;
+  background-position: 13.4615384615% 80.5825242718%;
   width: 14px;
   height: 14px; }
 
 .icon-star-half-filled-grayLighter {
-  background-position: 6.7307692308% 85.5670103093%;
+  background-position: 6.7307692308% 80.5825242718%;
   width: 14px;
   height: 14px; }
 
 .icon-star-half-filled-yellow {
-  background-position: 0 85.5670103093%;
+  background-position: 80.76875% 27.1844660194%;
   width: 14px;
   height: 14px; }
 
 .icon-star-halved {
-  background-position: 65.4205607477% 57.7319587629%;
+  background-position: 78.5042056075% 20.3883495146%;
   width: 8px;
   height: 14px; }
 
 .icon-star-halved-grayLighter {
-  background-position: 65.4205607477% 50.5154639175%;
+  background-position: 78.5042056075% 13.5922330097%;
   width: 8px;
   height: 14px; }
 
 .icon-star-halved-yellow {
-  background-position: 65.4205607477% 14.4329896907%;
+  background-position: 65.4205607477% 13.5922330097%;
   width: 8px;
   height: 14px; }
 
 .icon-star-yellow {
-  background-position: 13.4615384615% 71.1340206186%;
+  background-position: 13.4615384615% 66.9902912621%;
   width: 14px;
   height: 14px; }
 
 .icon-thumbs-up-12 {
-  background-position: 87.353431022% 92.7825486335%;
+  background-position: 87.353431022% 87.3777924486%;
   width: 13.651px;
   height: 13.998px; }
 
 .icon-thumbs-up-12-grayDark {
-  background-position: 73.914441634% 78.349707735%;
+  background-position: 73.914441634% 73.7856914011%;
   width: 13.651px;
   height: 13.998px; }
 
 .icon-thumbs-up-12-greenDark {
-  background-position: 67.19494694% 71.1332872857%;
+  background-position: 67.19494694% 66.9896408773%;
   width: 13.651px;
   height: 13.998px; }
 
 .icon-thumbs-up-14 {
-  background-position: 6.7307692308% 71.1340206186%;
+  background-position: 6.7307692308% 66.9902912621%;
   width: 14px;
   height: 14px; }
 
 .icon-thumbs-up-14-grayDark {
-  background-position: 60.5769230769% 36.0824742268%;
+  background-position: 60.5769230769% 33.9805825243%;
   width: 14px;
   height: 14px; }
 
 .icon-thumbs-up-14-greenDark {
-  background-position: 60.5769230769% 28.8659793814%;
+  background-position: 60.5769230769% 27.1844660194%;
   width: 14px;
   height: 14px; }
 
 .icon-trash {
-  background-position: 60.5769230769% 21.6494845361%;
+  background-position: 60.5769230769% 20.3883495146%;
   width: 14px;
   height: 14px; }
 
 .icon-trash-blue {
-  background-position: 60.5769230769% 14.4329896907%;
+  background-position: 60.5769230769% 13.5922330097%;
   width: 14px;
   height: 14px; }
 
 .icon-trash-grayDark {
-  background-position: 60.5769230769% 7.2164948454%;
+  background-position: 60.5769230769% 6.7961165049%;
   width: 14px;
   height: 14px; }
 
 .icon-trash-white {
-  background-position: 33.6538461538% 63.9175257732%;
+  background-position: 33.6538461538% 60.1941747573%;
   width: 14px;
   height: 14px; }
 
 .icon-wrench {
-  background-position: 26.9230769231% 63.9175257732%;
+  background-position: 26.9230769231% 60.1941747573%;
   width: 14px;
   height: 14px; }
 
 .icon-wrench-grayLightest {
-  background-position: 20.1923076923% 63.9175257732%;
+  background-position: 20.1923076923% 60.1941747573%;
   width: 14px;
   height: 14px; }
 
 .icon-wrench-white {
-  background-position: 67.3076923077% 100%;
+  background-position: 74.0384615385% 94.1747572816%;
   width: 14px;
   height: 14px; }
 
