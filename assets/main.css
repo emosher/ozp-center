@@ -5704,92 +5704,92 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   .load-error h5 {
     font-weight: bolder; }
 
-.svg-common, .icon-arrow-right, .icon-arrow-right-grayLightest, .icon-arrow-right-white, .icon-ban-12, .icon-ban-12-blue, .icon-ban-12-blueDark, .icon-ban-12-orange, .icon-ban-12-red, a:hover > .icon-ban-12-blueDark, button:hover > .icon-ban-12-blueDark, .icon-ban-14, .icon-ban-14-blue, .icon-ban-14-blueDark, .icon-ban-14-orange, .icon-ban-14-red, .icon-bar-graph-2, .icon-bar-graph-2-grayLightest, .icon-bar-graph-2-white, a:hover > .icon-bar-graph-2-grayLightest, .icon-bell, .icon-bell-filled, .icon-bell-filled-blue, .icon-bell-grayLightest, .icon-bell-white, a:hover > .icon-bell-grayLightest, .icon-caret-down-14, .icon-caret-down-14-blue, .icon-caret-down-14-blueDark, .icon-caret-down-14-grayDark, .AdminOwnerListingTile__actionMenuButton, .icon-caret-down-14-grayLightest, .icon-caret-down-14-white, .icon-caret-down-18, .icon-caret-down-18-blue, .icon-caret-down-18-blueDark, .icon-caret-down-18-grayDark, .icon-caret-down-18-grayLightest, .icon-caret-down-18-white, .icon-caret-left, .icon-caret-left-white, .icon-caret-right, .icon-caret-right-blueDark, .icon-caret-right-grayDarkest, .icon-caret-right-white, .icon-caret-up, .icon-caret-up-grayLightest, .icon-caret-up-white, .icon-check, .icon-check-white, .icon-circle-check, .icon-circle-check-green, .icon-cloud, .icon-cloud-grayLightest, .icon-cloud-upload, .icon-cloud-upload-grayDark, .icon-cloud-upload-white, .icon-cloud-white, a:hover > .icon-cloud-grayLightest, .icon-cog, .icon-cog-grayLightest, .icon-cog-white, a:hover > .icon-cog-grayLightest, .icon-cross-10, .icon-cross-10-grayDark, .icon-cross-10-grayDarker, .icon-cross-10-grayLightest, .icon-cross-10-white, .icon-cross-14, .icon-cross-14-grayDark, .icon-cross-14-grayDarker, #header .navbar-form > .form-group > .icon-cross-14-grayDark:hover, .icon-cross-14-grayLightest, .icon-cross-14-white, .icon-cross-16, .icon-cross-16-grayDark, .icon-cross-16-grayDarker, .icon-cross-16-grayLightest, .icon-cross-16-white, .icon-cross-18, .icon-cross-18-grayDark, .icon-cross-18-grayDarker, .icon-cross-18-grayLightest, .icon-cross-18-white, .icon-exclamation-12, .icon-exclamation-12-grayDark, .icon-exclamation-12-redOrangeDark, .icon-exclamation-14, .icon-exclamation-14-grayDark, .icon-exclamation-14-redOrangeDark, .AdminOwnerListingTile.needs-action .approvalStatus, .icon-eye, .icon-eye-grayDark, .icon-eye-white, .icon-fast-forward, .icon-fast-forward-grayLightest, .icon-fast-forward-white, .icon-grid, .icon-grid-grayLightest, .icon-grid-white, .icon-head, .icon-head-grayLightest, .icon-head-white, a:hover > .icon-head-grayLightest, .icon-home, .icon-home-blue, .icon-home-grayLightest, .icon-home-white, .icon-layers, .icon-layers-grayDark, .icon-layers-grayLightest, .icon-layers-white, a:hover > .icon-layers-grayLightest, a:hover > .icon-layers, button:hover > .icon-layers, .icon-layout, .icon-layout-blue, .icon-layout-grayLightest, .icon-layout-white, a:hover > .icon-layout-grayLightest, .icon-loader-12, .icon-loader-12-blueDark, .icon-loader-12-grayDark, .icon-loader-14, .icon-loader-14-blueDark, .AdminOwnerListingTile.pending .approvalStatus, .icon-loader-14-grayDark, .icon-lock, .icon-lock-grayDark, .icon-lock-grayDarkest, .icon-maximize, .icon-maximize-grayLightest, .icon-maximize-white, .icon-menu, .icon-menu-blue, .icon-menu-grayLightest, .icon-menu-white, a:hover > .icon-menu-grayLightest, .icon-minimize, .icon-minimize-grayLightest, .icon-minimize-white, .icon-minus-10, .icon-minus-10-blueDark, .icon-minus-10-grayLightest, .icon-minus-10-white, .icon-minus-14, .icon-minus-14-grayLightest, .icon-minus-14-white, .icon-open, .icon-open-grayDark, .icon-open-white, a:hover > .icon-open-grayDark, button:hover > .icon-open-grayDark, .icon-paper-12, .icon-paper-12-grayDark, .icon-paper-14, .icon-paper-14-grayDark, .AdminOwnerListingTile.draft .approvalStatus, .icon-pencil, .icon-pencil-grayDark, .icon-pencil-grayLightest, .icon-pencil-white, a:hover > .icon-pencil-grayDark, button:hover > .icon-pencil-grayDark, .icon-plus-10, .icon-plus-10-blueDark, .icon-plus-10-grayLightest, .icon-plus-10-white, .icon-plus-14, .icon-plus-14-grayLightest, .icon-plus-14-white, .icon-plus-18, .icon-plus-18-grayLightest, .icon-plus-18-white, .icon-question, .icon-question-grayLightest, .icon-question-white, a:hover > .icon-question-grayLightest, .icon-reload-12, .icon-reload-12-blueDark, .icon-reload-12-grayDark, .icon-reload-14, .icon-reload-14-blueDark, .AdminOwnerListingTile.rejected .approvalStatus, .icon-reload-14-grayDark, .icon-rewind, .icon-rewind-grayLightest, .icon-rewind-white, .icon-ribbon, .icon-ribbon-filled, .icon-ribbon-filled-white, .icon-ribbon-filled-yellow, .icon-ribbon-grayDark, .icon-ribbon-grayLightest, .icon-ribbon-white, a:hover > .icon-ribbon-grayLightest, a:hover > .icon-ribbon, button:hover > .icon-ribbon, .icon-save, .icon-save-grayDark, .icon-save-white, .icon-search, .icon-search-grayDark, .icon-search-white, .icon-shopping, .icon-shopping-blue, .activeIcon.icon-shopping-grayLightest, .activeIcon.icon-home-grayLightest, .activeIcon.icon-layout-grayLightest, .icon-shopping-grayLightest, .icon-shopping-settings, .icon-shopping-settings-grayLightest, .icon-shopping-settings-white, a:hover > .icon-shopping-settings-grayLightest, .icon-shopping-white, a:hover > .icon-shopping-grayLightest, .icon-square-plus, .icon-square-plus-grayDark, .icon-square-plus-grayLightest, .icon-square-plus-white, a:hover > .icon-square-plus-grayLightest, .icon-stack, .icon-stack-grayLightest, .icon-stack-white, .icon-star, .icon-star-filled, .icon-star-filled-grayLighter, .icon-star-filled-yellow, .icon-star-grayLighter, .icon-star-half-filled, .icon-star-half-filled-grayLighter, .icon-star-half-filled-yellow, .icon-star-halved, .icon-star-halved-grayLighter, .icon-star-halved-yellow, .icon-star-yellow, .icon-thumbs-up-12, .icon-thumbs-up-12-grayDark, .icon-thumbs-up-12-greenDark, .icon-thumbs-up-14, .icon-thumbs-up-14-grayDark, .icon-thumbs-up-14-greenDark, .AdminOwnerListingTile.published .approvalStatus, .icon-trash, .icon-trash-blue, .icon-trash-grayDark, .icon-trash-white, .icon-wrench, .icon-wrench-grayLightest, .icon-wrench-white {
-  background-image: url(svg/sprite.css-3770ed4e.svg);
+.svg-common, .icon-arrow-right, .icon-arrow-right-grayLightest, .icon-arrow-right-white, .icon-ban-12, .icon-ban-12-blue, .icon-ban-12-blueDark, .icon-ban-12-orange, .icon-ban-12-red, a:hover > .icon-ban-12-blueDark, button:hover > .icon-ban-12-blueDark, .icon-ban-14, .icon-ban-14-blue, .icon-ban-14-blueDark, .icon-ban-14-orange, .icon-ban-14-red, .icon-bar-graph-2, .icon-bar-graph-2-grayLightest, .icon-bar-graph-2-white, a:hover > .icon-bar-graph-2-grayLightest, .icon-bell, .icon-bell-filled, .icon-bell-filled-blue, .icon-bell-grayLightest, .icon-bell-white, a:hover > .icon-bell-grayLightest, .icon-caret-down-14, .icon-caret-down-14-blue, .icon-caret-down-14-blueDark, .icon-caret-down-14-grayDark, .AdminOwnerListingTile__actionMenuButton, .icon-caret-down-14-grayLightest, .icon-caret-down-14-white, .icon-caret-down-18, .icon-caret-down-18-blue, .icon-caret-down-18-blueDark, .icon-caret-down-18-grayDark, .icon-caret-down-18-grayLightest, .icon-caret-down-18-white, .icon-caret-left, .icon-caret-left-white, .icon-caret-right, .icon-caret-right-blueDark, .icon-caret-right-grayDarkest, .icon-caret-right-white, .icon-caret-up, .icon-caret-up-grayLightest, .icon-caret-up-white, .icon-check, .icon-check-white, .icon-circle-check, .icon-circle-check-green, .icon-cloud, .icon-cloud-grayLightest, .icon-cloud-upload, .icon-cloud-upload-grayDark, .icon-cloud-upload-white, .icon-cloud-white, a:hover > .icon-cloud-grayLightest, .icon-cog, .icon-cog-grayLightest, .icon-cog-white, a:hover > .icon-cog-grayLightest, .icon-cross-10, .icon-cross-10-grayDark, .icon-cross-10-grayDarker, .icon-cross-10-grayLightest, .icon-cross-10-white, .icon-cross-14, .icon-cross-14-grayDark, .icon-cross-14-grayDarker, #header .navbar-form > .form-group > .icon-cross-14-grayDark:hover, .icon-cross-14-grayLightest, .icon-cross-14-white, .icon-cross-16, .icon-cross-16-grayDark, .icon-cross-16-grayDarker, .icon-cross-16-grayLightest, .icon-cross-16-white, .icon-cross-18, .icon-cross-18-grayDark, .icon-cross-18-grayDarker, .icon-cross-18-grayLightest, .icon-cross-18-white, .icon-exclamation-12, .icon-exclamation-12-grayDark, .icon-exclamation-12-redOrangeDark, .icon-exclamation-14, .icon-exclamation-14-grayDark, .icon-exclamation-14-redOrangeDark, .AdminOwnerListingTile.needs-action .approvalStatus, .icon-eye, .icon-eye-grayDark, .icon-eye-white, .icon-fast-forward, .icon-fast-forward-grayLightest, .icon-fast-forward-white, .icon-grid, .icon-grid-grayLightest, .icon-grid-white, .icon-head, .icon-head-grayLightest, .icon-head-white, a:hover > .icon-head-grayLightest, .icon-home, .icon-home-blue, .icon-home-grayLightest, .icon-home-white, .icon-layers, .icon-layers-grayDark, .icon-layers-grayLightest, .icon-layers-white, a:hover > .icon-layers-grayLightest, a:hover > .icon-layers, button:hover > .icon-layers, .icon-layout, .icon-layout-blue, .icon-layout-grayLightest, .icon-layout-white, a:hover > .icon-layout-grayLightest, .icon-loader-12, .icon-loader-12-blueDark, .icon-loader-12-grayDark, .icon-loader-14, .icon-loader-14-blueDark, .AdminOwnerListingTile.pending .approvalStatus, .icon-loader-14-grayDark, .icon-lock, .icon-lock-grayDark, .icon-lock-grayDarkest, .icon-maximize, .icon-maximize-grayLightest, .icon-maximize-white, .icon-menu, .icon-menu-blue, .user-menu-dropdown.open .icon-menu-grayLightest, .icon-menu-grayLightest, .icon-menu-white, a:hover > .icon-menu-grayLightest, .icon-minimize, .icon-minimize-grayLightest, .icon-minimize-white, .icon-minus-10, .icon-minus-10-blueDark, .icon-minus-10-grayLightest, .icon-minus-10-white, .icon-minus-14, .icon-minus-14-grayLightest, .icon-minus-14-white, .icon-open, .icon-open-grayDark, .icon-open-white, a:hover > .icon-open-grayDark, button:hover > .icon-open-grayDark, .icon-paper-12, .icon-paper-12-grayDark, .icon-paper-14, .icon-paper-14-grayDark, .AdminOwnerListingTile.draft .approvalStatus, .icon-pencil, .icon-pencil-grayDark, .icon-pencil-grayLightest, .icon-pencil-white, a:hover > .icon-pencil-grayDark, button:hover > .icon-pencil-grayDark, .icon-plus-10, .icon-plus-10-blueDark, .icon-plus-10-grayLightest, .icon-plus-10-white, .icon-plus-14, .icon-plus-14-grayLightest, .icon-plus-14-white, .icon-plus-18, .icon-plus-18-grayLightest, .icon-plus-18-white, .icon-question, .icon-question-grayLightest, .icon-question-white, a:hover > .icon-question-grayLightest, .icon-reload-12, .icon-reload-12-blueDark, .icon-reload-12-grayDark, .icon-reload-14, .icon-reload-14-blueDark, .AdminOwnerListingTile.rejected .approvalStatus, .icon-reload-14-grayDark, .icon-rewind, .icon-rewind-grayLightest, .icon-rewind-white, .icon-ribbon, .icon-ribbon-filled, .icon-ribbon-filled-white, .icon-ribbon-filled-yellow, .icon-ribbon-grayDark, .icon-ribbon-grayLightest, .icon-ribbon-white, a:hover > .icon-ribbon-grayLightest, a:hover > .icon-ribbon, button:hover > .icon-ribbon, .icon-save, .icon-save-grayDark, .icon-save-white, .icon-search, .icon-search-grayDark, .icon-search-white, .icon-shopping, .icon-shopping-blue, .activeIcon.icon-shopping-grayLightest, .activeIcon.icon-home-grayLightest, .activeIcon.icon-layout-grayLightest, .icon-shopping-grayLightest, .icon-shopping-settings, .icon-shopping-settings-grayLightest, .icon-shopping-settings-white, a:hover > .icon-shopping-settings-grayLightest, .icon-shopping-white, a:hover > .icon-shopping-grayLightest, .icon-square-plus, .icon-square-plus-grayDark, .icon-square-plus-grayLightest, .icon-square-plus-white, a:hover > .icon-square-plus-grayLightest, .icon-stack, .icon-stack-grayLightest, .icon-stack-white, .icon-star, .icon-star-filled, .icon-star-filled-grayLighter, .icon-star-filled-yellow, .icon-star-grayLighter, .icon-star-half-filled, .icon-star-half-filled-grayLighter, .icon-star-half-filled-yellow, .icon-star-halved, .icon-star-halved-grayLighter, .icon-star-halved-yellow, .icon-star-yellow, .icon-thumbs-up-12, .icon-thumbs-up-12-grayDark, .icon-thumbs-up-12-greenDark, .icon-thumbs-up-14, .icon-thumbs-up-14-grayDark, .icon-thumbs-up-14-greenDark, .AdminOwnerListingTile.published .approvalStatus, .icon-trash, .icon-trash-blue, .icon-trash-grayDark, .icon-trash-white, .icon-wrench, .icon-wrench-grayLightest, .icon-wrench-white {
+  background-image: url(svg/sprite.css-ced9ec00.svg);
   background-repeat: no-repeat; }
 
 .icon-arrow-right {
-  background-position: 60% 60.7843137255%;
-  width: 14px;
-  height: 14px; }
+  background-position: 87.5% 86.3731897619%;
+  width: 12px;
+  height: 9.602px; }
 
 .icon-arrow-right-grayLightest {
-  background-position: 60% 74.5098039216%;
-  width: 14px;
-  height: 14px; }
+  background-position: 56.7307692308% 93.0911045212%;
+  width: 12px;
+  height: 9.602px; }
 
 .icon-arrow-right-white {
-  background-position: 66.6666666667% 0;
-  width: 14px;
-  height: 14px; }
+  background-position: 100% 23.0328506032%;
+  width: 12px;
+  height: 9.602px; }
 
 .icon-ban-12 {
-  background-position: 66.0377358491% 61.1650485437%;
+  background-position: 86.5384615385% 81.5533980583%;
   width: 12px;
   height: 12px; }
 
 .icon-ban-12-blue {
-  background-position: 59.4339622642% 54.3689320388%;
+  background-position: 79.8076923077% 74.7572815534%;
   width: 12px;
   height: 12px; }
 
 .icon-ban-12-blueDark {
-  background-position: 33.0160377358% 80.5825242718%;
+  background-position: 73.0769230769% 67.9611650485%;
   width: 12px;
   height: 12px; }
 
 .icon-ban-12-orange {
-  background-position: 38.6764150943% 80.5825242718%;
+  background-position: 51.9230769231% 46.6019417476%;
   width: 12px;
   height: 12px; }
 
 .icon-ban-12-red, a:hover > .icon-ban-12-blueDark, button:hover > .icon-ban-12-blueDark {
-  background-position: 66.9768867925% 80.5825242718%;
+  background-position: 80.7692307692% 80.5825242718%;
   width: 12px;
   height: 12px; }
 
 .icon-ban-14 {
-  background-position: 20% 74.5098039216%;
+  background-position: 54.3689320388% 74.5098039216%;
   width: 14px;
   height: 14px; }
 
 .icon-ban-14-blue {
-  background-position: 26.6666666667% 74.5098039216%;
+  background-position: 80.5825242718% 68.6274509804%;
   width: 14px;
   height: 14px; }
 
 .icon-ban-14-blueDark {
-  background-position: 33.3333333333% 74.5098039216%;
+  background-position: 0 81.3725490196%;
   width: 14px;
   height: 14px; }
 
 .icon-ban-14-orange {
-  background-position: 80% 41.175%;
+  background-position: 6.7961165049% 81.3725490196%;
   width: 14px;
   height: 14px; }
 
 .icon-ban-14-red {
-  background-position: 100% 27.4509803922%;
+  background-position: 47.572815534% 60.7843137255%;
   width: 14px;
   height: 14px; }
 
 .icon-bar-graph-2 {
-  background-position: 100% 34.3137254902%;
-  width: 14px;
-  height: 14px; }
+  background-position: 60.5769230769% 60.1944669634%;
+  width: 12px;
+  height: 12.001px; }
 
 .icon-bar-graph-2-grayLightest {
-  background-position: 46.6666666667% 60.7843137255%;
-  width: 14px;
-  height: 14px; }
+  background-position: 67.3076923077% 66.9906164593%;
+  width: 12px;
+  height: 12.001px; }
 
 .icon-bar-graph-2-white, a:hover > .icon-bar-graph-2-grayLightest {
-  background-position: 53.3333333333% 60.7843137255%;
-  width: 14px;
-  height: 14px; }
+  background-position: 74.0384615385% 73.7867659552%;
+  width: 12px;
+  height: 12.001px; }
 
 .icon-bell {
-  background-position: 26.213592233% 36%;
+  background-position: 17.8217821782% 36%;
   width: 18px;
   height: 18px; }
 
@@ -5799,802 +5799,802 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 18px; }
 
 .icon-bell-filled-blue {
-  background-position: 8.7378640777% 9%;
+  background-position: 8.9108910891% 9%;
   width: 18px;
   height: 18px; }
 
 .icon-bell-grayLightest {
-  background-position: 17.4757281553% 0;
+  background-position: 17.8217821782% 0;
   width: 18px;
   height: 18px; }
 
 .icon-bell-white, a:hover > .icon-bell-grayLightest {
-  background-position: 17.4757281553% 9%;
+  background-position: 17.8217821782% 9%;
   width: 18px;
   height: 18px; }
 
 .icon-caret-down-14 {
-  background-position: 66.6663492079% 27.4509803922%;
-  width: 13.999px;
+  background-position: 66.9902912621% 48.0392156863%;
+  width: 14px;
   height: 14px; }
 
 .icon-caret-down-14-blue {
-  background-position: 66.6663492079% 34.3137254902%;
-  width: 13.999px;
+  background-position: 73.786407767% 48.0392156863%;
+  width: 14px;
   height: 14px; }
 
 .icon-caret-down-14-blueDark {
-  background-position: 66.6663492079% 41.1764705882%;
-  width: 13.999px;
+  background-position: 73.786407767% 54.9019607843%;
+  width: 14px;
   height: 14px; }
 
 .icon-caret-down-14-grayDark, .AdminOwnerListingTile__actionMenuButton {
-  background-position: 73.3329841286% 26.5921568627%;
-  width: 13.999px;
+  background-position: 73.786407767% 61.7647058824%;
+  width: 14px;
   height: 14px; }
 
 .icon-caret-down-14-grayLightest {
-  background-position: 73.3329841286% 33.4549019608%;
-  width: 13.999px;
-  height: 14px; }
-
-.icon-caret-down-14-white {
-  background-position: 73.3329841286% 40.3176470588%;
-  width: 13.999px;
-  height: 14px; }
-
-.icon-caret-down-18 {
-  background-position: 0 18%;
-  width: 18px;
-  height: 18px; }
-
-.icon-caret-down-18-blue {
-  background-position: 8.7378640777% 18%;
-  width: 18px;
-  height: 18px; }
-
-.icon-caret-down-18-blueDark {
-  background-position: 17.4757281553% 18%;
-  width: 18px;
-  height: 18px; }
-
-.icon-caret-down-18-grayDark {
-  background-position: 26.213592233% 0;
-  width: 18px;
-  height: 18px; }
-
-.icon-caret-down-18-grayLightest {
-  background-position: 26.213592233% 9%;
-  width: 18px;
-  height: 18px; }
-
-.icon-caret-down-18-white {
-  background-position: 26.213592233% 18%;
-  width: 18px;
-  height: 18px; }
-
-.icon-caret-left {
-  background-position: 80% 48.037745098%;
-  width: 14px;
-  height: 14px; }
-
-.icon-caret-left-white {
-  background-position: 80% 54.9004901961%;
-  width: 14px;
-  height: 14px; }
-
-.icon-caret-right {
-  background-position: 80% 61.7632352941%;
-  width: 14px;
-  height: 14px; }
-
-.icon-caret-right-blueDark {
-  background-position: 60% 88.2352941176%;
-  width: 14px;
-  height: 14px; }
-
-.icon-caret-right-grayDarkest {
-  background-position: 66.6666666667% 88.2352941176%;
-  width: 14px;
-  height: 14px; }
-
-.icon-caret-right-white {
-  background-position: 73.3333333333% 88.2352941176%;
-  width: 14px;
-  height: 14px; }
-
-.icon-caret-up {
-  background-position: 80% 88.2352941176%;
-  width: 14px;
-  height: 14px; }
-
-.icon-caret-up-grayLightest {
-  background-position: 86.6666666667% 88.2352941176%;
-  width: 14px;
-  height: 14px; }
-
-.icon-caret-up-white {
-  background-position: 93.3333333333% 0;
-  width: 14px;
-  height: 14px; }
-
-.icon-check {
-  background-position: 93.3333333333% 20.5882352941%;
-  width: 14px;
-  height: 14px; }
-
-.icon-check-white {
-  background-position: 100% 20.5882352941%;
-  width: 14px;
-  height: 14px; }
-
-.icon-circle-check {
-  background-position: 14.8325358852% 53.2019704433%;
-  width: 15px;
-  height: 15px; }
-
-.icon-circle-check-green {
-  background-position: 7.6555023923% 53.2019704433%;
-  width: 15px;
-  height: 15px; }
-
-.icon-cloud {
-  background-position: 28.5714285714% 52.9411764706%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cloud-grayLightest {
-  background-position: 35.2380952381% 52.9411764706%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cloud-upload {
-  background-position: 41.9047619048% 52.9411764706%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cloud-upload-grayDark {
-  background-position: 48.5714285714% 52.9411764706%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cloud-upload-white {
-  background-position: 60% 0;
-  width: 14px;
-  height: 14px; }
-
-.icon-cloud-white, a:hover > .icon-cloud-grayLightest {
-  background-position: 60% 6.862745098%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cog {
-  background-position: 60% 13.7254901961%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cog-grayLightest {
-  background-position: 60% 20.5882352941%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cog-white, a:hover > .icon-cog-grayLightest {
-  background-position: 60% 27.4509803922%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cross-10 {
-  background-position: 45.7943925234% 93.2692307692%;
-  width: 10px;
-  height: 10px; }
-
-.icon-cross-10-grayDark {
-  background-position: 69.1588785047% 93.2692307692%;
-  width: 10px;
-  height: 10px; }
-
-.icon-cross-10-grayDarker {
-  background-position: 64.4859813084% 93.2692307692%;
-  width: 10px;
-  height: 10px; }
-
-.icon-cross-10-grayLightest {
-  background-position: 59.8130841121% 93.2692307692%;
-  width: 10px;
-  height: 10px; }
-
-.icon-cross-10-white {
-  background-position: 50.4672897196% 93.2692307692%;
-  width: 10px;
-  height: 10px; }
-
-.icon-cross-14 {
-  background-position: 13.3333333333% 60.7843137255%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cross-14-grayDark {
-  background-position: 20% 60.7843137255%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cross-14-grayDarker, #header .navbar-form > .form-group > .icon-cross-14-grayDark:hover {
-  background-position: 26.6666666667% 60.7843137255%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cross-14-grayLightest {
-  background-position: 33.3333333333% 60.7843137255%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cross-14-white {
-  background-position: 40% 60.7843137255%;
-  width: 14px;
-  height: 14px; }
-
-.icon-cross-16 {
-  background-position: 0 53.4653465347%;
-  width: 16px;
-  height: 16px; }
-
-.icon-cross-16-grayDark {
-  background-position: 51.9230769231% 41.5841584158%;
-  width: 16px;
-  height: 16px; }
-
-.icon-cross-16-grayDarker {
-  background-position: 51.9230769231% 33.6633663366%;
-  width: 16px;
-  height: 16px; }
-
-.icon-cross-16-grayLightest {
-  background-position: 51.9230769231% 25.7425742574%;
-  width: 16px;
-  height: 16px; }
-
-.icon-cross-16-white {
-  background-position: 51.9230769231% 17.8217821782%;
-  width: 16px;
-  height: 16px; }
-
-.icon-cross-18 {
-  background-position: 34.9514563107% 26.998%;
-  width: 18px;
-  height: 18px; }
-
-.icon-cross-18-grayDark {
-  background-position: 0 36%;
-  width: 18px;
-  height: 18px; }
-
-.icon-cross-18-grayDarker {
-  background-position: 8.7378640777% 36%;
-  width: 18px;
-  height: 18px; }
-
-.icon-cross-18-grayLightest {
-  background-position: 17.4757281553% 36%;
-  width: 18px;
-  height: 18px; }
-
-.icon-cross-18-white {
-  background-position: 0 0;
-  width: 18px;
-  height: 18px; }
-
-.icon-exclamation-12 {
-  background-position: 99.054267588% 94.1727872465%;
-  width: 11.995px;
-  height: 12.001px; }
-
-.icon-exclamation-12-grayDark {
-  background-position: 79.2434140704% 74.7561881368%;
-  width: 11.995px;
-  height: 12.001px; }
-
-.icon-exclamation-12-redOrangeDark {
-  background-position: 99.054267588% 88.3470308108%;
-  width: 11.995px;
-  height: 12.001px; }
-
-.icon-exclamation-14 {
-  background-position: 0 67.6470588235%;
-  width: 13.995px;
-  height: 14px; }
-
-.icon-exclamation-14-grayDark {
-  background-position: 6.6641270446% 67.6470588235%;
-  width: 13.995px;
-  height: 14px; }
-
-.icon-exclamation-14-redOrangeDark, .AdminOwnerListingTile.needs-action .approvalStatus {
-  background-position: 13.3282540892% 67.6470588235%;
-  width: 13.995px;
-  height: 14px; }
-
-.icon-eye {
-  background-position: 19.9928571429% 67.6470588235%;
-  width: 14px;
-  height: 14px; }
-
-.icon-eye-grayDark {
-  background-position: 26.6595238095% 67.6470588235%;
-  width: 14px;
-  height: 14px; }
-
-.icon-eye-white {
-  background-position: 33.3261904762% 67.6470588235%;
-  width: 14px;
-  height: 14px; }
-
-.icon-fast-forward {
-  background-position: 39.9928571429% 67.6470588235%;
-  width: 14px;
-  height: 14px; }
-
-.icon-fast-forward-grayLightest {
-  background-position: 46.6595238095% 67.6470588235%;
-  width: 14px;
-  height: 14px; }
-
-.icon-fast-forward-white {
-  background-position: 53.3261904762% 67.6470588235%;
-  width: 14px;
-  height: 14px; }
-
-.icon-grid {
-  background-position: 59.9928571429% 67.6470588235%;
-  width: 14px;
-  height: 14px; }
-
-.icon-grid-grayLightest {
-  background-position: 66.6595238095% 67.6470588235%;
-  width: 14px;
-  height: 14px; }
-
-.icon-grid-white {
-  background-position: 73.3333333333% 0;
-  width: 14px;
-  height: 14px; }
-
-.icon-head {
-  background-position: 73.3333333333% 6.8431548899%;
-  width: 14px;
-  height: 13.416px; }
-
-.icon-head-grayLightest {
-  background-position: 73.3333333333% 13.4008524616%;
-  width: 14px;
-  height: 13.416px; }
-
-.icon-head-white, a:hover > .icon-head-grayLightest {
-  background-position: 73.3333333333% 19.9585500332%;
-  width: 14px;
-  height: 13.416px; }
-
-.icon-home {
-  background-position: 34.9514563107% 36%;
-  width: 18px;
-  height: 18px; }
-
-.icon-home-blue {
-  background-position: 43.6893203883% 0;
-  width: 18px;
-  height: 18px; }
-
-.icon-home-grayLightest {
-  background-position: 43.6893203883% 9%;
-  width: 18px;
-  height: 18px; }
-
-.icon-home-white {
-  background-position: 43.6893203883% 18%;
-  width: 18px;
-  height: 18px; }
-
-.icon-layers {
-  background-position: 73.3333333333% 54.0431372549%;
-  width: 14px;
-  height: 14px; }
-
-.icon-layers-grayDark {
-  background-position: 73.3333333333% 60.9058823529%;
-  width: 14px;
-  height: 14px; }
-
-.icon-layers-grayLightest {
   background-position: 0 74.5098039216%;
   width: 14px;
   height: 14px; }
 
+.icon-caret-down-14-white {
+  background-position: 33.9805825243% 74.5098039216%;
+  width: 14px;
+  height: 14px; }
+
+.icon-caret-down-18 {
+  background-position: 0 53.4653465347%;
+  width: 16px;
+  height: 16px; }
+
+.icon-caret-down-18-blue {
+  background-position: 52.9411764706% 39.603960396%;
+  width: 16px;
+  height: 16px; }
+
+.icon-caret-down-18-blueDark {
+  background-position: 52.9411764706% 31.6831683168%;
+  width: 16px;
+  height: 16px; }
+
+.icon-caret-down-18-grayDark {
+  background-position: 52.9411764706% 23.7623762376%;
+  width: 16px;
+  height: 16px; }
+
+.icon-caret-down-18-grayLightest {
+  background-position: 17.6470588235% 44.5544554455%;
+  width: 16px;
+  height: 16px; }
+
+.icon-caret-down-18-white {
+  background-position: 52.9411764706% 7.9207920792%;
+  width: 16px;
+  height: 16px; }
+
+.icon-caret-left {
+  background-position: 13.5922330097% 81.3725490196%;
+  width: 14px;
+  height: 14px; }
+
+.icon-caret-left-white {
+  background-position: 87.3786407767% 27.4509803922%;
+  width: 14px;
+  height: 14px; }
+
+.icon-caret-right {
+  background-position: 13.5922330097% 88.2352941176%;
+  width: 14px;
+  height: 14px; }
+
+.icon-caret-right-blueDark {
+  background-position: 20.3883495146% 88.2352941176%;
+  width: 14px;
+  height: 14px; }
+
+.icon-caret-right-grayDarkest {
+  background-position: 47.572815534% 88.2352941176%;
+  width: 14px;
+  height: 14px; }
+
+.icon-caret-right-white {
+  background-position: 54.3689320388% 88.2352941176%;
+  width: 14px;
+  height: 14px; }
+
+.icon-caret-up {
+  background-position: 100% 57.0883495146%;
+  width: 12px;
+  height: 12px; }
+
+.icon-caret-up-grayLightest {
+  background-position: 100% 51.2631067961%;
+  width: 12px;
+  height: 12px; }
+
+.icon-caret-up-white {
+  background-position: 100% 45.4378640777%;
+  width: 12px;
+  height: 12px; }
+
+.icon-check {
+  background-position: 67.9611650485% 88.2352941176%;
+  width: 14px;
+  height: 14px; }
+
+.icon-check-white {
+  background-position: 74.7572815534% 88.2352941176%;
+  width: 14px;
+  height: 14px; }
+
+.icon-circle-check {
+  background-position: 14.5631067961% 52.9411764706%;
+  width: 14px;
+  height: 14px; }
+
+.icon-circle-check-green {
+  background-position: 21.359223301% 52.9411764706%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cloud {
+  background-position: 28.1553398058% 52.9411764706%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cloud-grayLightest {
+  background-position: 34.9514563107% 52.9411764706%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cloud-upload {
+  background-position: 41.7475728155% 52.9411764706%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cloud-upload-grayDark {
+  background-position: 48.5436893204% 52.9411764706%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cloud-upload-white {
+  background-position: 60.1941747573% 0;
+  width: 14px;
+  height: 14px; }
+
+.icon-cloud-white, a:hover > .icon-cloud-grayLightest {
+  background-position: 60.1941747573% 6.862745098%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cog {
+  background-position: 60.1941747573% 13.7254901961%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cog-grayLightest {
+  background-position: 60.1941747573% 20.5882352941%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cog-white, a:hover > .icon-cog-grayLightest {
+  background-position: 60.1941747573% 27.4509803922%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cross-10 {
+  background-position: 99.0476190476% 67.1163461538%;
+  width: 10px;
+  height: 10px; }
+
+.icon-cross-10-grayDark {
+  background-position: 99.0476190476% 91.1548076923%;
+  width: 10px;
+  height: 10px; }
+
+.icon-cross-10-grayDarker {
+  background-position: 99.0476190476% 71.9240384615%;
+  width: 10px;
+  height: 10px; }
+
+.icon-cross-10-grayLightest {
+  background-position: 99.0476190476% 76.7317307692%;
+  width: 10px;
+  height: 10px; }
+
+.icon-cross-10-white {
+  background-position: 19.0476190476% 100%;
+  width: 10px;
+  height: 10px; }
+
+.icon-cross-14 {
+  background-position: 13.5922330097% 60.7843137255%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cross-14-grayDark {
+  background-position: 20.3883495146% 60.7843137255%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cross-14-grayDarker, #header .navbar-form > .form-group > .icon-cross-14-grayDark:hover {
+  background-position: 27.1844660194% 60.7843137255%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cross-14-grayLightest {
+  background-position: 33.9805825243% 60.7843137255%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cross-14-white {
+  background-position: 40.7766990291% 60.7843137255%;
+  width: 14px;
+  height: 14px; }
+
+.icon-cross-16 {
+  background-position: 52.9411764706% 0;
+  width: 16px;
+  height: 16px; }
+
+.icon-cross-16-grayDark {
+  background-position: 41.1764705882% 44.5544554455%;
+  width: 16px;
+  height: 16px; }
+
+.icon-cross-16-grayDarker {
+  background-position: 33.3333333333% 44.5544554455%;
+  width: 16px;
+  height: 16px; }
+
+.icon-cross-16-grayLightest {
+  background-position: 52.9411764706% 15.8415841584%;
+  width: 16px;
+  height: 16px; }
+
+.icon-cross-16-white {
+  background-position: 25.4901960784% 44.5544554455%;
+  width: 16px;
+  height: 16px; }
+
+.icon-cross-18 {
+  background-position: 35.6435643564% 9%;
+  width: 18px;
+  height: 18px; }
+
+.icon-cross-18-grayDark {
+  background-position: 35.6435643564% 18%;
+  width: 18px;
+  height: 18px; }
+
+.icon-cross-18-grayDarker {
+  background-position: 35.6435643564% 27%;
+  width: 18px;
+  height: 18px; }
+
+.icon-cross-18-grayLightest {
+  background-position: 0 36%;
+  width: 18px;
+  height: 18px; }
+
+.icon-cross-18-white {
+  background-position: 8.9108910891% 36%;
+  width: 18px;
+  height: 18px; }
+
+.icon-exclamation-12 {
+  background-position: 100% 11.6504854369%;
+  width: 12px;
+  height: 12px; }
+
+.icon-exclamation-12-grayDark {
+  background-position: 100% 5.8252427184%;
+  width: 12px;
+  height: 12px; }
+
+.icon-exclamation-12-redOrangeDark {
+  background-position: 100% 0;
+  width: 12px;
+  height: 12px; }
+
+.icon-exclamation-14 {
+  background-position: 13.5922330097% 67.6470588235%;
+  width: 14px;
+  height: 14px; }
+
+.icon-exclamation-14-grayDark {
+  background-position: 20.3883495146% 67.6470588235%;
+  width: 14px;
+  height: 14px; }
+
+.icon-exclamation-14-redOrangeDark, .AdminOwnerListingTile.needs-action .approvalStatus {
+  background-position: 27.1844660194% 67.6470588235%;
+  width: 14px;
+  height: 14px; }
+
+.icon-eye {
+  background-position: 33.9805825243% 67.6470588235%;
+  width: 14px;
+  height: 14px; }
+
+.icon-eye-grayDark {
+  background-position: 40.7766990291% 67.6470588235%;
+  width: 14px;
+  height: 14px; }
+
+.icon-eye-white {
+  background-position: 47.572815534% 67.6470588235%;
+  width: 14px;
+  height: 14px; }
+
+.icon-fast-forward {
+  background-position: 54.3689320388% 67.6470588235%;
+  width: 14px;
+  height: 14px; }
+
+.icon-fast-forward-grayLightest {
+  background-position: 61.1650485437% 67.6470588235%;
+  width: 14px;
+  height: 14px; }
+
+.icon-fast-forward-white {
+  background-position: 73.786407767% 0;
+  width: 14px;
+  height: 14px; }
+
+.icon-grid {
+  background-position: 73.786407767% 6.862745098%;
+  width: 14px;
+  height: 14px; }
+
+.icon-grid-grayLightest {
+  background-position: 73.786407767% 13.7254901961%;
+  width: 14px;
+  height: 14px; }
+
+.icon-grid-white {
+  background-position: 73.786407767% 20.5882352941%;
+  width: 14px;
+  height: 14px; }
+
+.icon-head {
+  background-position: 73.786407767% 27.4509803922%;
+  width: 14px;
+  height: 14px; }
+
+.icon-head-grayLightest {
+  background-position: 73.786407767% 34.3137254902%;
+  width: 14px;
+  height: 14px; }
+
+.icon-head-white, a:hover > .icon-head-grayLightest {
+  background-position: 73.786407767% 41.1764705882%;
+  width: 14px;
+  height: 14px; }
+
+.icon-home {
+  background-position: 0 0;
+  width: 18px;
+  height: 18px; }
+
+.icon-home-blue {
+  background-position: 26.7326732673% 36%;
+  width: 18px;
+  height: 18px; }
+
+.icon-home-grayLightest {
+  background-position: 35.6435643564% 36%;
+  width: 18px;
+  height: 18px; }
+
+.icon-home-white {
+  background-position: 44.5544554455% 0;
+  width: 18px;
+  height: 18px; }
+
+.icon-layers {
+  background-position: 6.7961165049% 74.5098039216%;
+  width: 14px;
+  height: 14px; }
+
+.icon-layers-grayDark {
+  background-position: 13.5922330097% 74.5098039216%;
+  width: 14px;
+  height: 14px; }
+
+.icon-layers-grayLightest {
+  background-position: 20.3883495146% 74.5098039216%;
+  width: 14px;
+  height: 14px; }
+
 .icon-layers-white, a:hover > .icon-layers-grayLightest, a:hover > .icon-layers, button:hover > .icon-layers {
-  background-position: 6.6666666667% 74.5098039216%;
+  background-position: 27.1844660194% 74.5098039216%;
   width: 14px;
   height: 14px; }
 
 .icon-layout {
-  background-position: 43.6893203883% 27%;
+  background-position: 44.5544554455% 9%;
   width: 18px;
   height: 18px; }
 
 .icon-layout-blue {
-  background-position: 43.6893203883% 36%;
+  background-position: 44.5544554455% 18%;
   width: 18px;
   height: 18px; }
 
 .icon-layout-grayLightest {
-  background-position: 0 45%;
+  background-position: 44.5544554455% 27%;
   width: 18px;
   height: 18px; }
 
 .icon-layout-white, a:hover > .icon-layout-grayLightest {
-  background-position: 8.7378640777% 45%;
+  background-position: 44.5544554455% 36%;
   width: 18px;
   height: 18px; }
 
 .icon-loader-12 {
-  background-position: 40% 74.5098039216%;
+  background-position: 61.1650485437% 74.5098039216%;
   width: 14px;
   height: 14px; }
 
 .icon-loader-12-blueDark {
-  background-position: 46.6666666667% 74.5098039216%;
+  background-position: 67.9611650485% 74.5098039216%;
   width: 14px;
   height: 14px; }
 
 .icon-loader-12-grayDark {
-  background-position: 53.3333333333% 74.5098039216%;
+  background-position: 80.5825242718% 0;
   width: 14px;
   height: 14px; }
 
 .icon-loader-14 {
-  background-position: 21.9047619048% 52.9411764706%;
+  background-position: 7.7669902913% 52.9411764706%;
   width: 14px;
   height: 14px; }
 
 .icon-loader-14-blueDark, .AdminOwnerListingTile.pending .approvalStatus {
-  background-position: 66.6666666667% 74.5098039216%;
+  background-position: 80.5825242718% 13.7254901961%;
   width: 14px;
   height: 14px; }
 
 .icon-loader-14-grayDark {
-  background-position: 73.3333333333% 74.5098039216%;
+  background-position: 80.5825242718% 20.5882352941%;
   width: 14px;
   height: 14px; }
 
 .icon-lock {
-  background-position: 55.6563412437% 80.5825242718%;
-  width: 11.999px;
+  background-position: 50.9615384615% 94.1747572816%;
+  width: 12px;
   height: 12px; }
 
 .icon-lock-grayDark {
-  background-position: 49.9964622808% 80.5825242718%;
-  width: 11.999px;
+  background-position: 45.1923076923% 94.1747572816%;
+  width: 12px;
   height: 12px; }
 
 .icon-lock-grayDarkest {
-  background-position: 44.336583318% 80.5825242718%;
-  width: 11.999px;
+  background-position: 39.4230769231% 94.1747572816%;
+  width: 12px;
   height: 12px; }
 
 .icon-maximize {
-  background-position: 80% 20.5881343719%;
+  background-position: 80.5825242718% 48.0392156863%;
   width: 14px;
-  height: 13.999px; }
+  height: 14px; }
 
 .icon-maximize-grayLightest {
-  background-position: 80% 27.4503556355%;
+  background-position: 80.5825242718% 54.9019607843%;
   width: 14px;
-  height: 13.999px; }
+  height: 14px; }
 
 .icon-maximize-white {
-  background-position: 80% 34.3125768991%;
+  background-position: 80.5825242718% 61.7647058824%;
   width: 14px;
-  height: 13.999px; }
+  height: 14px; }
 
 .icon-menu {
-  background-position: 17.4757281553% 45%;
+  background-position: 0 45%;
   width: 18px;
   height: 18px; }
 
-.icon-menu-blue {
-  background-position: 26.213592233% 45%;
+.icon-menu-blue, .user-menu-dropdown.open .icon-menu-grayLightest {
+  background-position: 8.9108910891% 45%;
   width: 18px;
   height: 18px; }
 
 .icon-menu-grayLightest {
-  background-position: 34.9514563107% 45%;
+  background-position: 35.6435643564% 0;
   width: 18px;
   height: 18px; }
 
 .icon-menu-white, a:hover > .icon-menu-grayLightest {
-  background-position: 43.6893203883% 45%;
+  background-position: 26.7326732673% 27%;
   width: 18px;
   height: 18px; }
 
 .icon-minimize {
-  background-position: 79.9988571592% 68.6259803922%;
-  width: 13.997px;
+  background-position: 20.3883495146% 81.3725490196%;
+  width: 14px;
   height: 14px; }
 
 .icon-minimize-grayLightest {
-  background-position: 0 81.3725490196%;
-  width: 13.997px;
+  background-position: 27.1844660194% 81.3725490196%;
+  width: 14px;
   height: 14px; }
 
 .icon-minimize-white {
-  background-position: 6.6651428789% 81.3725490196%;
-  width: 13.997px;
+  background-position: 33.9805825243% 81.3725490196%;
+  width: 14px;
   height: 14px; }
 
 .icon-minus-10 {
-  background-position: 83.1775700935% 93.2692307692%;
+  background-position: 99.0476190476% 81.5394230769%;
   width: 10px;
   height: 10px; }
 
 .icon-minus-10-blueDark {
-  background-position: 87.8504672897% 93.2692307692%;
+  background-position: 99.0476190476% 86.3471153846%;
   width: 10px;
   height: 10px; }
 
 .icon-minus-10-grayLightest {
-  background-position: 92.523364486% 93.2692307692%;
+  background-position: 99.0476190476% 62.3086538462%;
   width: 10px;
   height: 10px; }
 
 .icon-minus-10-white {
-  background-position: 0 100%;
+  background-position: 54.2857142857% 51.9230769231%;
   width: 10px;
   height: 10px; }
 
 .icon-minus-14 {
-  background-position: 86.6666666667% 0;
+  background-position: 67.9611650485% 81.3725490196%;
   width: 14px;
   height: 14px; }
 
 .icon-minus-14-grayLightest {
-  background-position: 86.6666666667% 6.862745098%;
+  background-position: 74.7572815534% 81.3725490196%;
   width: 14px;
   height: 14px; }
 
 .icon-minus-14-white {
-  background-position: 86.6666666667% 13.7254901961%;
+  background-position: 87.3786407767% 0;
   width: 14px;
   height: 14px; }
 
 .icon-open {
-  background-position: 86.6662539702% 20.5882352941%;
-  width: 13.999px;
+  background-position: 87.3786407767% 6.862745098%;
+  width: 14px;
   height: 14px; }
 
 .icon-open-grayDark {
-  background-position: 86.6662539702% 27.4509803922%;
-  width: 13.999px;
+  background-position: 87.3786407767% 13.7254901961%;
+  width: 14px;
   height: 14px; }
 
 .icon-open-white, a:hover > .icon-open-grayDark, button:hover > .icon-open-grayDark {
-  background-position: 86.6662539702% 34.3137254902%;
-  width: 13.999px;
+  background-position: 87.3786407767% 20.5882352941%;
+  width: 14px;
   height: 14px; }
 
 .icon-paper-12 {
-  background-position: 78.2976415094% 80.5825242718%;
+  background-position: 59.6153846154% 54.3689320388%;
   width: 12px;
   height: 12px; }
 
 .icon-paper-12-grayDark {
-  background-position: 92.4528301887% 88.3495145631%;
+  background-position: 66.3461538462% 61.1650485437%;
   width: 12px;
   height: 12px; }
 
 .icon-paper-14 {
-  background-position: 86.6666666667% 54.9019607843%;
+  background-position: 87.3786407767% 41.1764705882%;
   width: 14px;
   height: 14px; }
 
 .icon-paper-14-grayDark, .AdminOwnerListingTile.draft .approvalStatus {
-  background-position: 86.6666666667% 61.7647058824%;
+  background-position: 87.3786407767% 48.0392156863%;
   width: 14px;
   height: 14px; }
 
 .icon-pencil {
-  background-position: 86.6666666667% 68.6274509804%;
+  background-position: 87.3786407767% 54.9019607843%;
   width: 14px;
   height: 14px; }
 
 .icon-pencil-grayDark {
-  background-position: 86.6666666667% 75.4901960784%;
+  background-position: 87.3786407767% 61.7647058824%;
   width: 14px;
   height: 14px; }
 
 .icon-pencil-grayLightest {
-  background-position: 0 88.2352941176%;
+  background-position: 87.3786407767% 68.6274509804%;
   width: 14px;
   height: 14px; }
 
 .icon-pencil-white, a:hover > .icon-pencil-grayDark, button:hover > .icon-pencil-grayDark {
-  background-position: 6.6666666667% 88.2352941176%;
+  background-position: 87.3786407767% 75.4901960784%;
   width: 14px;
   height: 14px; }
 
 .icon-plus-10 {
-  background-position: 78.5046728972% 93.2692307692%;
+  background-position: 0 100%;
   width: 10px;
   height: 10px; }
 
 .icon-plus-10-blueDark {
-  background-position: 55.1401869159% 93.2692307692%;
+  background-position: 4.7619047619% 100%;
   width: 10px;
   height: 10px; }
 
 .icon-plus-10-grayLightest {
-  background-position: 4.6728971963% 100%;
+  background-position: 9.5238095238% 100%;
   width: 10px;
   height: 10px; }
 
 .icon-plus-10-white {
-  background-position: 73.8317757009% 93.2692307692%;
+  background-position: 14.2857142857% 100%;
   width: 10px;
   height: 10px; }
 
 .icon-plus-14 {
-  background-position: 40% 88.2352941176%;
+  background-position: 27.1844660194% 88.2352941176%;
   width: 14px;
   height: 14px; }
 
 .icon-plus-14-grayLightest {
-  background-position: 46.6666666667% 88.2352941176%;
+  background-position: 33.9805825243% 88.2352941176%;
   width: 14px;
   height: 14px; }
 
 .icon-plus-14-white {
-  background-position: 53.3333333333% 88.2352941176%;
+  background-position: 40.7766990291% 88.2352941176%;
   width: 14px;
   height: 14px; }
 
 .icon-plus-18 {
-  background-position: 52.427184466% 0;
+  background-position: 26.7326732673% 18%;
   width: 18px;
   height: 18px; }
 
 .icon-plus-18-grayLightest {
-  background-position: 52.427184466% 9%;
+  background-position: 26.7326732673% 9%;
   width: 18px;
   height: 18px; }
 
 .icon-plus-18-white {
-  background-position: 34.9514563107% 17.998%;
+  background-position: 26.7326732673% 0;
   width: 18px;
   height: 18px; }
 
 .icon-question {
-  background-position: 34.9514563107% 8.9989100109%;
+  background-position: 17.8217821782% 18%;
   width: 18px;
-  height: 17.998px; }
+  height: 18px; }
 
 .icon-question-grayLightest {
-  background-position: 34.9514563107% 0;
+  background-position: 8.9108910891% 18%;
   width: 18px;
-  height: 17.998px; }
+  height: 18px; }
 
 .icon-question-white, a:hover > .icon-question-grayLightest {
-  background-position: 26.213592233% 26.9997300027%;
+  background-position: 0 18%;
   width: 18px;
-  height: 17.998px; }
+  height: 18px; }
 
 .icon-reload-12 {
-  background-position: 72.6372641509% 80.5825242718%;
+  background-position: 33.6538461538% 94.1747572816%;
   width: 12px;
   height: 12px; }
 
 .icon-reload-12-blueDark {
-  background-position: 61.316509434% 80.5825242718%;
+  background-position: 100% 17.4757281553%;
   width: 12px;
   height: 12px; }
 
 .icon-reload-12-grayDark {
-  background-position: 85.8490566038% 81.5533980583%;
+  background-position: 93.2692307692% 88.3495145631%;
   width: 12px;
   height: 12px; }
 
 .icon-reload-14 {
-  background-position: 93.3333333333% 27.4509803922%;
+  background-position: 94.1747572816% 6.862745098%;
   width: 14px;
   height: 14px; }
 
 .icon-reload-14-blueDark, .AdminOwnerListingTile.rejected .approvalStatus {
-  background-position: 93.3333333333% 34.3137254902%;
+  background-position: 94.1747572816% 13.7254901961%;
   width: 14px;
   height: 14px; }
 
 .icon-reload-14-grayDark {
-  background-position: 93.3333333333% 41.1764705882%;
+  background-position: 94.1747572816% 20.5882352941%;
   width: 14px;
   height: 14px; }
 
 .icon-rewind {
-  background-position: 93.3333333333% 48.0392156863%;
+  background-position: 94.1747572816% 27.4509803922%;
   width: 14px;
   height: 14px; }
 
 .icon-rewind-grayLightest {
-  background-position: 93.3333333333% 54.9019607843%;
+  background-position: 94.1747572816% 34.3137254902%;
   width: 14px;
   height: 14px; }
 
 .icon-rewind-white {
-  background-position: 93.3333333333% 61.7647058824%;
+  background-position: 94.1747572816% 41.1764705882%;
   width: 14px;
   height: 14px; }
 
 .icon-ribbon {
-  background-position: 93.3333333333% 68.6274509804%;
+  background-position: 94.1747572816% 48.0392156863%;
   width: 14px;
   height: 14px; }
 
 .icon-ribbon-filled {
-  background-position: 93.3333333333% 75.4901960784%;
+  background-position: 94.1747572816% 54.9019607843%;
   width: 14px;
   height: 14px; }
 
 .icon-ribbon-filled-white {
-  background-position: 93.3333333333% 82.3529411765%;
+  background-position: 94.1747572816% 61.7647058824%;
   width: 14px;
   height: 14px; }
 
 .icon-ribbon-filled-yellow {
-  background-position: 0 95.0980392157%;
+  background-position: 94.1747572816% 68.6274509804%;
   width: 14px;
   height: 14px; }
 
 .icon-ribbon-grayDark {
-  background-position: 6.6666666667% 95.0980392157%;
+  background-position: 94.1747572816% 75.4901960784%;
   width: 14px;
   height: 14px; }
 
 .icon-ribbon-grayLightest {
-  background-position: 13.3333333333% 95.0980392157%;
+  background-position: 94.1747572816% 82.3529411765%;
   width: 14px;
   height: 14px; }
 
 .icon-ribbon-white, a:hover > .icon-ribbon-grayLightest, a:hover > .icon-ribbon, button:hover > .icon-ribbon {
-  background-position: 20% 95.0980392157%;
+  background-position: 0 95.0980392157%;
   width: 14px;
   height: 14px; }
 
 .icon-save {
-  background-position: 26.6666666667% 95.0975730511%;
+  background-position: 6.7961165049% 95.0980392157%;
   width: 14px;
-  height: 13.999px; }
+  height: 14px; }
 
 .icon-save-grayDark {
-  background-position: 33.3333333333% 95.0975730511%;
+  background-position: 13.5922330097% 95.0980392157%;
   width: 14px;
-  height: 13.999px; }
+  height: 14px; }
 
 .icon-save-white {
-  background-position: 40% 95.0975730511%;
+  background-position: 20.3883495146% 95.0980392157%;
   width: 14px;
-  height: 13.999px; }
+  height: 14px; }
 
 .icon-search {
-  background-position: 100% 0;
+  background-position: 27.1844660194% 95.0980392157%;
   width: 14px;
   height: 14px; }
 
 .icon-search-grayDark {
-  background-position: 100% 6.862745098%;
+  background-position: 94.1747572816% 0;
   width: 14px;
   height: 14px; }
 
 .icon-search-white {
-  background-position: 100% 13.7254901961%;
+  background-position: 81.5533980583% 88.2352941176%;
   width: 14px;
   height: 14px; }
 
 .icon-shopping {
-  background-position: 8.7378640777% 27%;
+  background-position: 8.9108910891% 0;
   width: 18px;
   height: 18px; }
 
@@ -6604,187 +6604,187 @@ input[type="checkbox"].ios.brand-info.checked + .track {
   height: 18px; }
 
 .icon-shopping-grayLightest {
-  background-position: 8.7378640777% 0;
+  background-position: 8.9108910891% 27%;
   width: 18px;
   height: 18px; }
 
 .icon-shopping-settings {
-  background-position: 100% 41.1764705882%;
+  background-position: 6.7961165049% 88.2352941176%;
   width: 14px;
   height: 14px; }
 
 .icon-shopping-settings-grayLightest {
-  background-position: 100% 48.0392156863%;
+  background-position: 0 88.2352941176%;
   width: 14px;
   height: 14px; }
 
 .icon-shopping-settings-white, a:hover > .icon-shopping-settings-grayLightest {
-  background-position: 100% 54.9019607843%;
+  background-position: 87.3786407767% 34.3137254902%;
   width: 14px;
   height: 14px; }
 
 .icon-shopping-white, a:hover > .icon-shopping-grayLightest {
-  background-position: 17.4757281553% 27%;
+  background-position: 17.8217821782% 27%;
   width: 18px;
   height: 18px; }
 
 .icon-square-plus {
-  background-position: 93.3333333333% 13.7254901961%;
+  background-position: 61.1650485437% 81.3725490196%;
   width: 14px;
   height: 14px; }
 
 .icon-square-plus-grayDark {
-  background-position: 93.3333333333% 6.862745098%;
+  background-position: 54.3689320388% 81.3725490196%;
   width: 14px;
   height: 14px; }
 
 .icon-square-plus-grayLightest {
-  background-position: 33.3333333333% 88.2352941176%;
+  background-position: 47.572815534% 81.3725490196%;
   width: 14px;
   height: 14px; }
 
 .icon-square-plus-white, a:hover > .icon-square-plus-grayLightest {
-  background-position: 26.6666666667% 88.2352941176%;
+  background-position: 40.7766990291% 81.3725490196%;
   width: 14px;
   height: 14px; }
 
 .icon-stack {
-  background-position: 20% 88.2352941176%;
+  background-position: 80.5825242718% 41.1764705882%;
   width: 14px;
   height: 14px; }
 
 .icon-stack-grayLightest {
-  background-position: 13.3333333333% 88.2352941176%;
+  background-position: 80.5825242718% 34.3137254902%;
   width: 14px;
   height: 14px; }
 
 .icon-stack-white {
-  background-position: 86.6666666667% 48.0392156863%;
+  background-position: 80.5825242718% 27.4509803922%;
   width: 14px;
   height: 14px; }
 
 .icon-star {
-  background-position: 86.6666666667% 41.1764705882%;
+  background-position: 80.5825242718% 6.862745098%;
   width: 14px;
   height: 14px; }
 
 .icon-star-filled {
-  background-position: 26.6638095238% 81.0084082824%;
+  background-position: 6.7961165049% 67.6470588235%;
   width: 14px;
-  height: 13.083px; }
+  height: 14px; }
 
 .icon-star-filled-grayLighter {
-  background-position: 19.9971428571% 81.0084082824%;
+  background-position: 0 67.6470588235%;
   width: 14px;
-  height: 13.083px; }
+  height: 14px; }
 
 .icon-star-filled-yellow {
-  background-position: 73.3333333333% 67.4653640254%;
+  background-position: 66.9902912621% 54.9019607843%;
   width: 14px;
-  height: 13.083px; }
+  height: 14px; }
 
 .icon-star-grayLighter {
-  background-position: 13.3304761905% 81.3725490196%;
+  background-position: 6.7961165049% 60.7843137255%;
   width: 14px;
   height: 14px; }
 
 .icon-star-half-filled {
-  background-position: 80% 13.7254901961%;
-  width: 14px;
-  height: 14px; }
-
-.icon-star-half-filled-grayLighter {
-  background-position: 80% 6.862745098%;
-  width: 14px;
-  height: 14px; }
-
-.icon-star-half-filled-yellow {
-  background-position: 80% 0;
-  width: 14px;
-  height: 14px; }
-
-.icon-star-halved {
-  background-position: 53.7037037037% 52.9411764706%;
-  width: 8px;
-  height: 14px; }
-
-.icon-star-halved-grayLighter {
-  background-position: 64.8148148148% 54.9019607843%;
-  width: 8px;
-  height: 14px; }
-
-.icon-star-halved-yellow {
-  background-position: 64.8148148148% 48.0392156863%;
-  width: 8px;
-  height: 14px; }
-
-.icon-star-yellow {
-  background-position: 6.6666666667% 60.7843137255%;
-  width: 14px;
-  height: 14px; }
-
-.icon-thumbs-up-12 {
-  background-position: 99.8340852583% 82.3501730375%;
-  width: 13.651px;
-  height: 13.998px; }
-
-.icon-thumbs-up-12-grayDark {
-  background-position: 99.8340852583% 75.4884756032%;
-  width: 13.651px;
-  height: 13.998px; }
-
-.icon-thumbs-up-12-greenDark {
-  background-position: 99.8340852583% 68.6267781688%;
-  width: 13.651px;
-  height: 13.998px; }
-
-.icon-thumbs-up-14 {
   background-position: 0 60.7843137255%;
   width: 14px;
   height: 14px; }
 
+.icon-star-half-filled-grayLighter {
+  background-position: 60.1941747573% 48.0392156863%;
+  width: 14px;
+  height: 14px; }
+
+.icon-star-half-filled-yellow {
+  background-position: 60.1941747573% 41.1764705882%;
+  width: 14px;
+  height: 14px; }
+
+.icon-star-halved {
+  background-position: 58.2159624413% 34.3137254902%;
+  width: 7px;
+  height: 14px; }
+
+.icon-star-halved-grayLighter {
+  background-position: 46.9483568075% 44.1176470588%;
+  width: 7px;
+  height: 14px; }
+
+.icon-star-halved-yellow {
+  background-position: 61.5023474178% 34.3137254902%;
+  width: 7px;
+  height: 14px; }
+
+.icon-star-yellow {
+  background-position: 61.1650485437% 88.2352941176%;
+  width: 14px;
+  height: 14px; }
+
+.icon-thumbs-up-12 {
+  background-position: 100% 39.6126213592%;
+  width: 12px;
+  height: 12px; }
+
+.icon-thumbs-up-12-grayDark {
+  background-position: 100% 33.7873786408%;
+  width: 12px;
+  height: 12px; }
+
+.icon-thumbs-up-12-greenDark {
+  background-position: 100% 27.9621359223%;
+  width: 12px;
+  height: 12px; }
+
+.icon-thumbs-up-14 {
+  background-position: 66.9902912621% 6.862745098%;
+  width: 14px;
+  height: 14px; }
+
 .icon-thumbs-up-14-grayDark {
-  background-position: 60% 48.0392156863%;
+  background-position: 66.9902912621% 0;
   width: 14px;
   height: 14px; }
 
 .icon-thumbs-up-14-greenDark, .AdminOwnerListingTile.published .approvalStatus {
-  background-position: 60% 41.1764705882%;
+  background-position: 54.3689320388% 60.7843137255%;
   width: 14px;
   height: 14px; }
 
 .icon-trash {
-  background-position: 60% 34.3137254902%;
+  background-position: 47.572815534% 74.5098039216%;
   width: 14px;
   height: 14px; }
 
 .icon-trash-blue {
-  background-position: 13.3333333333% 74.5098039216%;
+  background-position: 40.7766990291% 74.5098039216%;
   width: 14px;
   height: 14px; }
 
 .icon-trash-grayDark {
-  background-position: 73.3333333333% 47.1803921569%;
+  background-position: 66.9902912621% 41.1764705882%;
   width: 14px;
   height: 14px; }
 
 .icon-trash-white {
-  background-position: 66.6666666667% 20.5882352941%;
+  background-position: 66.9902912621% 34.3137254902%;
   width: 14px;
   height: 14px; }
 
 .icon-wrench {
-  background-position: 66.6666666667% 13.7254901961%;
+  background-position: 66.9902912621% 27.4509803922%;
   width: 14px;
   height: 14px; }
 
 .icon-wrench-grayLightest {
-  background-position: 66.6666666667% 6.862745098%;
+  background-position: 66.9902912621% 20.5882352941%;
   width: 14px;
   height: 14px; }
 
 .icon-wrench-white {
-  background-position: 100% 61.7647058824%;
+  background-position: 66.9902912621% 13.7254901961%;
   width: 14px;
   height: 14px; }
 
