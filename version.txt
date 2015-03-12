@@ -1,5 +1,0 @@
-Version: 0.7.0
-Git hash: 
-886927229ea3f8e1fc03120ceef7a1c0d5fa836e
-Date:
-2015-03-10 15:46:33 -0400

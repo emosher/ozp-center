@@ -6,4 +6,5 @@ window.OzoneConfig = {
     "HUD_URL": 'http://ozone-development.github.io/hud-ui/',
     "WEBTOP_URL": 'http://ozone-development.github.io/ozp-webtop/',
     "DEVELOPER_RESOURCES_URL": "#",
+    "APP_TITLE": 'OZONE Marketplace',
 };
