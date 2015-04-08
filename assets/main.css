@@ -1,4 +1,4 @@
-@import url('main-blessed1.css?z=1427824898643');
+@import url('main-blessed1.css?z=1428522003942');
 
 
 .icon-cross-16-blueDark, button.close:hover > .icon-cross-16-grayDark, button.close:hover > .icon-cross-16, button.close:focus > .icon-cross-16-grayDark, button.close:focus > .icon-cross-16, button.close:active > .icon-cross-16-grayDark, button.close:active > .icon-cross-16, button.close > i.icon-cross-16-grayDark:hover, button.close > i.icon-cross-16:hover, button.close > i.icon-cross-16-grayDark:focus, button.close > i.icon-cross-16:focus, .icon-cross-16:hover, .icon-cross-16:focus, div.modal-header > button.close:hover > .icon-cross-16-grayDark, div.modal-header > button.close:hover > .icon-cross-16, div.modal-header > button.close:focus > .icon-cross-16-grayDark, div.modal-header > button.close:focus > .icon-cross-16, div.modal-header > button.close:active > .icon-cross-16-grayDark, div.modal-header > button.close:active > .icon-cross-16, a:hover > .icon-cross-16-grayDark, a:hover > .icon-cross-16, button:hover > .icon-cross-16-grayDark, button:hover > .icon-cross-16 {
@@ -1825,7 +1825,8 @@ ul.list-unstyled.RecentActivity > li > div.row > div.col-md-9, .owned-listings >
   border-color: #009dd3; }
 
 #main.create-edit-open {
-  height: 100%; }
+  height: 100%;
+  overflow: auto; }
   #main.create-edit-open > #App {
     height: calc(100% - 149px); }
 

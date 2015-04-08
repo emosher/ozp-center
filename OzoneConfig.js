@@ -7,4 +7,5 @@ window.OzoneConfig = {
     "WEBTOP_URL": 'http://ozone-development.github.io/ozp-webtop/',
     "DEVELOPER_RESOURCES_URL": "#",
     "APP_TITLE": 'OZONE Marketplace',
+    "FEEDBACK_ADDRESS": 'undefined',
 };
