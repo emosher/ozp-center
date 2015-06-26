@@ -14,6 +14,7 @@ var OrgFilter = require('./shared/OrgFilter.jsx');
 
 var ListingTile = require('../listing/ListingTile.jsx');
 var LoadMore = require('../shared/LoadMore.jsx');
+var TableView = require('../shared/TableView.jsx');
 
 var PaginatedListingsStore = require('../../stores/PaginatedListingsStore');
 
@@ -35,7 +36,8 @@ var AllListings = React.createClass({
             counts: {},
             listings: [],
             hasMore: false,
-            filter: this.getQuery()
+            filter: this.getQuery(),
+            tableView: false
         };
     },
 
@@ -63,6 +65,12 @@ var AllListings = React.createClass({
         });
     },
 
+    onViewToggle: function () {
+        this.setState({
+            tableView: !this.state.tableView
+        });
+    },
+
     onStoreChanged: function () {
         var paginatedList = this.getPaginatedList();
         if (!paginatedList) {
@@ -85,6 +93,20 @@ var AllListings = React.createClass({
         this.fetchAllListingsIfEmpty();
     },
 
+    renderListings: function () {
+        if (this.state.tableView) {
+            return (
+                <TableView />
+            );
+        } else {
+            return (
+                <LoadMore className="AllListings__listings col-md-10 all" hasMore={this.state.hasMore} onLoadMore={this.onLoadMore}>
+                    { ListingTile.fromArray(this.state.listings, UserRole.ADMIN) }
+                </LoadMore>
+            );
+        }
+    },
+
     render: function () {
         var sidebarFilterOptions = {
             value: this.state.filter,
@@ -97,14 +119,15 @@ var AllListings = React.createClass({
             <div className="AllListings row">
                 <div className="Listings__Sidebar col-md-2">
                     <Sidebar>
+                        <button className="btn btn-default" onClick={this.onViewToggle}>
+                            Toggle View
+                        </button>
                         <ApprovalStatusFilter role={ UserRole.ADMIN } { ...sidebarFilterOptions } />
                         <OrgFilter { ...sidebarFilterOptions } />
                         <EnabledFilter { ...sidebarFilterOptions } />
                     </Sidebar>
                 </div>
-                <LoadMore className="AllListings__listings col-md-10 all" hasMore={this.state.hasMore} onLoadMore={this.onLoadMore}>
-                    { ListingTile.fromArray(this.state.listings, UserRole.ADMIN) }
-                </LoadMore>
+                { this.renderListings() }
             </div>
         );
     }
