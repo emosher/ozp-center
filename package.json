@@ -82,7 +82,7 @@
     "object-assign": "1.0.0",
     "ozp-react-commons": "git://github.com/ozone-development/ozp-react-commons#master",
     "react": "0.12.2",
-    "react-datepicker": "0.5.1",
+    "react-datepicker": "0.64.0",
     "react-icon-rating": "0.2.0",
     "react-input-placeholder": "1.0.0",
     "react-radio-group": "1.0.0",
